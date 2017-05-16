@@ -52,9 +52,21 @@ $max-width: em(1260);
 }
 
 .about,
+.mailing-list {
   @include span-columns(6);
   @include shift(3);
+}
+
+.about {
   margin-top: $base-spacing;
+}
+
+.mailing-list {
+  margin-bottom: $base-spacing;
+
+  .required {
+    color: crimson;
+  }
 }
 
 .footer {
