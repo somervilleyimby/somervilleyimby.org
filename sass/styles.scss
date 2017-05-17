@@ -52,12 +52,14 @@ $max-width: em(1260);
 }
 
 .about,
-.mailing-list {
+.mailing-list,
+.letter {
   @include span-columns(6);
   @include shift(3);
 }
 
-.about {
+.about,
+.letter {
   margin-top: $base-spacing;
 }
 
