@@ -26,8 +26,10 @@ $default_column_width: 140px;
     vertical-align: top;
   }
 
-  td:nth-child(1),
-  th:nth-child(1) {
+  td:first-child,
+  th:first-child,
+  td:last-child,
+  th:last-child {
     width: $column_one_width;
   }
 
