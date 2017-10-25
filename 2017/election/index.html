@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>Municipal Election Questionnaire Responses — Somerville YIMBY</title>
-  <link rel="stylesheet" href="/css/styles.201710241753.css">
+  <link rel="stylesheet" href="../../css/styles.css">
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -14,6 +14,8 @@
     ga('send', 'pageview');
 
   </script>
+
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 </head>
 <body>
   <header class="hero">
@@ -37,6 +39,31 @@
       </ul>
 
       <p>We were unable to reach Elio Lorusso (Ward 1), so their answers are also not present</p>
+
+      <p>If you would like to filter these responses for the ones relevant to you, please uncheck those you’d like to hide.</p>
+
+      <script>
+        $(function() {
+          $('input[type="checkbox"]').on('change', function() {
+            checkbox = $(this)
+            wardName = '.' + checkbox.attr('name')
+            if (checkbox.prop('checked')) {
+              $(wardName).show()
+            } else {
+              $(wardName).hide()
+            }
+          })
+        })
+      </script>
+
+      <form>
+        <label><input type="checkbox" name="ward2"   checked>Ward 2</label>
+        <label><input type="checkbox" name="ward3"   checked>Ward 3</label>
+        <label><input type="checkbox" name="ward4"   checked>Ward 4</label>
+        <label><input type="checkbox" name="ward5"   checked>Ward 5</label>
+        <label><input type="checkbox" name="ward7"   checked>Ward 7</label>
+        <label><input type="checkbox" name="atlarge" checked>At-Large</label>
+      </form>
 
       <p>We start with five agree/disagree & multiple choice questions. Please be sure to scroll to the right to see all the answers.</p>
     </section>
@@ -196,7 +223,10 @@
             </li>
 
             <li class="atlarge"><strong>Stephanie Hirsch (At-Large):</strong>
-              <blockquote><p>I don’t believe that more housing units in Somerville will lower the costs of housing in Somerville. It may even have the opposite effect, unless new housing is specifically designed to be affordable housing. As I’ve been door knocking, the top two worries I have heard residents express are:</p>
+              <blockquote>
+              <p>To support the goal of increased housing in the greater Boston region, which will help stabilize housing prices, I think the best way Somerville can contribute is by achieving these following (difficult) steps. First, we can build higher-density housing in the transformative districts in ways that ensure the area becomes a real neighborhood, with a mix of residents by life stage, age, and income, and with neighborhood assets like schools, parks, clinics, and grocery stories. Next, we should figure out a way to create permanently car-free units with an enforcement mechanisms that prevents any owner or tenant from having a car principally housed in Somerville. I understand from City planners that there is a legal way to do this — there just isn’t much precedent. Additional cars parked and driving is one of the big complaints about more housing. In general, the best contribution we can make, I think, as one of the nation and region’s most dense city is to demonstrate HOW to succeed at achieving smart-growth goals of continued high density, transit-oriented, but with people still feeling that their community is livable and their neighbors are ones they want nearby. We can be a policy lab for the region, and as we test solutions, we should push for changes at the region and state level. Rep Provost’s recent proposal of the Right of First Refusal is an example of how we can lead the way in changing the state-level conversation about housing. We need to as a community lobby for changes to State law and policy that discourages more construction in other communities, including our education funding and accountability formulas that penalize communities for building family-friendly housing. I am happy that the YIMBY group exists as this seems like a great start at refining housing policy discussion and intensifying the sense of urgency.</p>
+
+              <p>For context, I don’t, however, believe that more housing units in Somerville will lower the costs of housing in Somerville, so I believe we need to be thoughtful about what our community needs. It may even have the opposite effect, unless new housing is specifically designed to be affordable housing. As I’ve been door knocking, the top two worries I have heard residents express are:</p>
 
               <ol class="default">
                 <li>Affordability of living in Somerville (both the cost of housing for renters or people trying to buy, and the cost of taxes/fees/fines for home owners); and</li>
@@ -206,8 +236,7 @@
               <p>I compiled the feedback I got from talking to more than 3,000 people in different neighborhoods here: <a href="https://jcalz.github.io/somerville-word-clouds/">https://jcalz.github.io/somerville-word-clouds/</a>. As we move forward with projects, those two, sometimes competing, needs must be balanced.</p>
 
               <p>For neighborhood stability, especially in our older neighborhoods (vs. the transformational ones), I think that will need to take into account neighborhood opinions. Also, I think we should work for increased ownership which will, I believe, help stabilize neighborhoods. Though our rate of owner vs. rental has remained relatively stable over the years, in the past, many multi-household buildings were occupied by a landlord who rented to family members or long-time friends. They had more accountability to those tenants and were less likely to raise rents or sell without warning. More stability will give people a peace of mind and help friendships form on each block. We should assess each housing plan, I believe, by its likelihood of increasing neighborhood stability.</p>
-
-              <p>To support the goal of increased housing in the greater Boston region, which will help stabilize housing prices, I think the best way Somerville can contribute is by achieving these following (difficult) steps. First, we can build higher-density housing in the transformative districts in ways that ensure the area becomes a real neighborhood, with a mix of residents by life stage, age, and income, and with neighborhood assets like schools, parks, clinics, and grocery stories. Next, we should figure out a way to create permanently car-free units with an enforcement mechanisms that prevents any owner or tenant from having a car principally housed in Somerville. I understand from City planners that there is a legal way to do this — there just isn’t much precedent. Additional cars parked and driving is one of the big complaints about more housing. In general, the best contribution we can make, I think, as one of the nation and region’s most dense city is to demonstrate HOW to succeed at achieving smart-growth goals of continued high density, transit-oriented, but with people still feeling that their community is livable and their neighbors are ones they want nearby. We can be a policy lab for the region, and as we test solutions, we should push for changes at the region and state level. Rep Provost’s recent proposal of the Right of First Refusal is an example of how we can lead the way in changing the state-level conversation about housing. We need to as a community lobby for changes to State law and policy that discourages more construction in other communities, including our education funding and accountability formulas that penalize communities for building family-friendly housing. I am happy that the YIMBY group exists as this seems like a great start at refining housing policy discussion and intensifying the sense of urgency.</p></blockquote>
+              </blockquote>
             </li>
 
             <li class="atlarge"><strong>Will Mbah (At-Large):</strong>
