@@ -39,8 +39,6 @@
 
       <p>We were unable to reach Elio Lorusso (Ward 1), so their answers are also not present</p>
 
-      <p>If you would like to filter these responses for the ones relevant to you, please uncheck those you’d like to hide.</p>
-
       <script>
         $(function() {
           $('input[type="checkbox"]').on('change', function() {
@@ -56,13 +54,15 @@
       </script>
 
       <form>
-        <label><input type="checkbox" name="ward1"   checked>Ward 1</label>
-        <label><input type="checkbox" name="ward2"   checked>Ward 2</label>
-        <label><input type="checkbox" name="ward3"   checked>Ward 3</label>
-        <label><input type="checkbox" name="ward4"   checked>Ward 4</label>
-        <label><input type="checkbox" name="ward5"   checked>Ward 5</label>
-        <label><input type="checkbox" name="ward7"   checked>Ward 7</label>
-        <label><input type="checkbox" name="atlarge" checked>At-Large</label>
+        <fieldset>
+          <p>If you would like to filter these responses for the ones relevant to you, please uncheck those you’d like to hide.</p>
+          <label><input type="checkbox" name="ward2"   checked>Ward 2</label>
+          <label><input type="checkbox" name="ward3"   checked>Ward 3</label>
+          <label><input type="checkbox" name="ward4"   checked>Ward 4</label>
+          <label><input type="checkbox" name="ward5"   checked>Ward 5</label>
+          <label><input type="checkbox" name="ward7"   checked>Ward 7</label>
+          <label><input type="checkbox" name="atlarge" checked>At-Large</label>
+        </fieldset>
       </form>
 
       <p>We start with five agree/disagree & multiple choice questions. Please be sure to scroll to the right to see all the answers.</p>
