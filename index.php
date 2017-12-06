@@ -7,6 +7,8 @@ require_once "./includes/header.php";
 
       <p>We believe that our cities and towns are great places, and we should welcome people who want to be here by creating plenty of housing for new neighbors of all income levels.</p>
 
+      <p>For more about us, please see the <a href="/platform/" title="Somerville YIMBY Platform">Somervilly YIMBY Platform</a>.</p>
+
       <hr>
     </section>
 
