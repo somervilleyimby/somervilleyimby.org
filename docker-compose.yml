@@ -1,0 +1,20 @@
+version: '3'
+services:
+  web:
+    image: nginx
+    volumes:
+      - "./etc/nginx/conf.d/default.conf:/etc/nginx/conf.d/default.conf"
+      - "./:/usr/share/nginx/html"
+    ports:
+      - "80:80"
+    restart: always
+    depends_on:
+      - php
+
+  php:
+    image: php:7-fpm
+    restart: always
+    volumes:
+      - "./:/usr/share/nginx/html"
+    ports:
+      - "9000:9000"
