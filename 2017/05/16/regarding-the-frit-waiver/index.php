@@ -1,29 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Regarding the FRIT Waiver — Somerville YIMBY</title>
-  <link rel="stylesheet" href="/css/styles.css">
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-96931256-1', 'auto');
-    ga('send', 'pageview');
-
-  </script>
-</head>
-<body>
-  <header class="hero">
-    <div class="hero-content">
-      <h1>Somerville YIMBY</h1>
-      <p>A group of Somerville residents advocating for smart growth that benefits everyone.</p>
-    </div>
-  </header>
-
-  <div class="wrapper">
+<?php
+$title = "Regarding the FRIT Waiver";
+$body_class = "";
+require_once "../../../../includes/header.php";
+?>
     <article class="letter">
       <p>The following is a letter we emailed to the Somerville Planning Board the evening of <time datetime="2017-05-16T21:22-04:00">May 16, 2017</time>, regarding Federal Realty’s request for a waiver on their development in Assembly Row.</p>
 
@@ -48,34 +27,4 @@
         <p>Jeff & Leah Byrnes, Luke Edson, Alex and Christina Epstein, Brendan Kearney, Stephen Moore, Aaron Weber, and the members of Somerville YIMBY</p>
       </blockquote>
     </article>
-  </div>
-
-  <footer class="footer" role="contentinfo">
-    <div class="footer-logo">
-      <img src="/img/entering-somerville-ma.png" alt="Logo image">
-    </div>
-    <div class="footer-links">
-      <!-- <ul>
-        <li><h3>Content</h3></li>
-        <li><a href="javascript:void(0)">About</a></li>
-        <li><a href="javascript:void(0)">Contact</a></li>
-        <li><a href="javascript:void(0)">Products</a></li>
-      </ul> -->
-      <ul>
-        <li><h3>Follow Us</h3></li>
-        <li><a href="https://www.facebook.com/SomervilleYIMBY">Facebook</a></li>
-        <li><a href="https://twitter.com/SomervilleYIMBY">Twitter</a></li>
-      </ul>
-      <!-- <ul>
-        <li><h3>Legal</h3></li>
-        <li><a href="javascript:void(0)">Terms and Conditions</a></li>
-        <li><a href="javascript:void(0)">Privacy Policy</a></li>
-      </ul> -->
-    </div>
-
-    <hr>
-
-    <p>© 2017 Somerville YIMBY</p>
-  </footer>
-</body>
-</html>
+<?php require_once "../../../../includes/footer.php";

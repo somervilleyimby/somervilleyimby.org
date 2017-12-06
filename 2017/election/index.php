@@ -1,31 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Municipal Election Questionnaire Responses — Somerville YIMBY</title>
-  <link rel="stylesheet" href="/css/styles.css">
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+<?php
+$title = "Municipal Election Questionnaire Responses";
+$body_class = "election2017";
+require_once "../../includes/header.php";
+?>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 
-    ga('create', 'UA-96931256-1', 'auto');
-    ga('send', 'pageview');
-
-  </script>
-
-  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-</head>
-<body class="election2017">
-  <header class="hero">
-    <div class="hero-content">
-      <h1>Somerville YIMBY</h1>
-      <p>A group of Somerville residents advocating for smart growth that benefits everyone.</p>
-    </div>
-  </header>
-
-  <div class="wrapper">
     <section class="letter">
       <p>We asked our 17 candidates for Aldermen to answer nine questions of ours. Below are their answers!</p>
 
@@ -440,34 +419,4 @@
         </li>
       </ul>
     </section>
-  </div>
-
-  <footer class="footer" role="contentinfo">
-    <div class="footer-logo">
-      <img src="/img/entering-somerville-ma.png" alt="Logo image">
-    </div>
-    <div class="footer-links">
-      <!-- <ul>
-        <li><h3>Content</h3></li>
-        <li><a href="javascript:void(0)">About</a></li>
-        <li><a href="javascript:void(0)">Contact</a></li>
-        <li><a href="javascript:void(0)">Products</a></li>
-      </ul> -->
-      <ul>
-        <li><h3>Follow Us</h3></li>
-        <li><a href="https://www.facebook.com/SomervilleYIMBY">Facebook</a></li>
-        <li><a href="https://twitter.com/SomervilleYIMBY">Twitter</a></li>
-      </ul>
-      <!-- <ul>
-        <li><h3>Legal</h3></li>
-        <li><a href="javascript:void(0)">Terms and Conditions</a></li>
-        <li><a href="javascript:void(0)">Privacy Policy</a></li>
-      </ul> -->
-    </div>
-
-    <hr>
-
-    <p>© 2017 Somerville YIMBY</p>
-  </footer>
-</body>
-</html>
+<?php require_once "../../includes/footer.php";
