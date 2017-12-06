@@ -63,6 +63,19 @@ $max-width: em(1260);
   margin-top: $base-spacing;
 }
 
+.who-are-we {
+  .wrapper {
+    li {
+      margin: 1em;
+    }
+
+    img {
+      height: 99px;
+      width: 99px;
+    }
+  }
+}
+
 .mailing-list {
   margin-bottom: $base-spacing;
 
