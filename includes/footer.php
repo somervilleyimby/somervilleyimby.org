@@ -25,7 +25,7 @@
 
     <hr>
 
-    <p>© 2017 Somerville YIMBY</p>
+    <p>© 2017–<?php echo date('Y'); ?> Somerville YIMBY</p>
   </footer>
 </body>
 </html>
