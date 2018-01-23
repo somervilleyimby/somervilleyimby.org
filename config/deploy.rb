@@ -4,6 +4,6 @@ lock '~> 3.10.0'
 set :application, 'somervilleyimby.org'
 set :repo_url, 'git@github.com:jeffbyrnes/somervilleyimby.org.git'
 
-server 'somervilleyimby.org', user: 'deploy', roles: %w(web app)
+server 'aws-jb', user: 'deploy', roles: %w(web app)
 
 before 'deploy:finished', 'sass:default'
