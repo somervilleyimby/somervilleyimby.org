@@ -3,8 +3,6 @@ $title = "Municipal Election Questionnaire Responses";
 $body_class = "election2017";
 require_once "../../includes/header.php";
 ?>
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-
     <section class="letter">
       <p>We asked our 17 candidates for Aldermen to answer nine questions of ours. Below are their answers!</p>
 
