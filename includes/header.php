@@ -58,7 +58,7 @@
   <header class="centered-navigation" role="banner">
     <div class="centered-navigation-wrapper">
       <a href="javascript:void(0)" class="mobile-logo">
-        <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_square.png" alt="Logo image">
+        <img src="/img/entering-somerville-ma.png" alt="Entering Somerville sign">
       </a>
 
       <a href="javascript:void(0)" id="js-centered-navigation-mobile-menu" class="centered-navigation-mobile-menu">MENU</a>
@@ -67,7 +67,7 @@
         <ul id="js-centered-navigation-menu" class="centered-navigation-menu show">
           <li class="nav-link logo">
             <a href="/" class="logo">
-              <img src="/img/entering-somerville-ma.png" alt="Logo image">
+              <img src="/img/entering-somerville-ma.png" alt="Entering Somerville sign">
             </a>
           </li>
           <li class="nav-link"><a href="/platform/">Platform</a></li>
