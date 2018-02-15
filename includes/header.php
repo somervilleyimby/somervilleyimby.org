@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title><?php if ($title) { echo "${title} — "; } ?>Somerville YIMBY</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="/css/styles.css">
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
