@@ -65,12 +65,13 @@
 
       <nav role="navigation">
         <ul id="js-centered-navigation-menu" class="centered-navigation-menu show">
-          <li class="nav-link"><a href="/platform/">Platform</a></li>
           <li class="nav-link logo">
             <a href="/" class="logo">
               <img src="/img/entering-somerville-ma.png" alt="Logo image">
             </a>
           </li>
+          <li class="nav-link"><a href="/platform/">Platform</a></li>
+          <li class="nav-link"><a href="/calendar/">Calendar</a></li>
           <li class="nav-link"><a href="/who-are-we/">Who Are We</a></li>
           <!-- <li class="nav-link"><a href="javascript:void(0)">Contact</a></li> -->
           <!-- <li class="nav-link"><a href="javascript:void(0)">Testimonials</a></li> -->

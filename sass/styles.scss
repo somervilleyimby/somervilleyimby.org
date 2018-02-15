@@ -46,6 +46,28 @@ $max-width: em(1260);
   }
 }
 
+.calendar {
+  .main {
+    @include span-columns(10);
+    @include shift(1);
+  }
+
+  .google-calendar{
+    position: relative;
+    height: 0;
+    width: 100%;
+    padding-bottom: 50%;
+  }
+
+  .google-calendar iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
 .footer {
   $base-spacing: 1.5em !default;
   $action-color: #477DCA !default;
