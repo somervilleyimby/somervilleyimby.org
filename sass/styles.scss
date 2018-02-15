@@ -52,19 +52,40 @@ $max-width: em(1260);
     @include shift(1);
   }
 
-  .google-calendar{
+  .big-container {
+    @include media(max-device-width 550px) {
+      display: none;
+    }
+  }
+
+  .small-container {
+    @include media(min-device-width 550px) {
+      display: none;
+    }
+  }
+
+  .google-calendar {
     position: relative;
     height: 0;
     width: 100%;
     padding-bottom: 50%;
-  }
 
-  .google-calendar iframe{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
+
+.main,
+.mailing-list,
+.calendar .main {
+  @include media(min-device-width 320px max-device-width 768px) {
+    @include span-columns(12);
+    @include shift(0);
   }
 }
 
