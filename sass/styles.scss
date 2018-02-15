@@ -17,15 +17,9 @@ $max-width: em(1260);
 @import "refills/centered-navigation";
 @import "refills/hero-unit";
 
-.about,
-.mailing-list,
-.letter {
+.main {
   @include span-columns(6);
   @include shift(3);
-}
-
-.about,
-.letter {
   margin-top: $base-spacing;
 }
 
@@ -43,6 +37,8 @@ $max-width: em(1260);
 }
 
 .mailing-list {
+  @include span-columns(6);
+  @include shift(3);
   margin-bottom: $base-spacing;
 
   .required {

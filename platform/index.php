@@ -1,9 +1,9 @@
 <?php
 $title = "Platform";
-$body_class = "";
+$body_class = "platform";
 require_once "../includes/header.php";
 ?>
-    <section class="about">
+    <section class="main">
       <h2>How and Why</h2>
 
       <p>Somerville and the Boston region as a whole are suffering through a housing affordability crisis. To address it, we need to build more housing.</p>

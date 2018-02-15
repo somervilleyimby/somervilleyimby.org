@@ -3,7 +3,7 @@ $title = "Who Are We";
 $body_class = "who-are-we";
 require_once "../includes/header.php";
 ?>
-    <section class="about">
+    <section class="main">
       <h2>Who Are We?</h2>
 
       <p>Steering Committee:</p>
