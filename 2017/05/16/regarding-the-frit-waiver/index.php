@@ -3,7 +3,7 @@ $title = "Regarding the FRIT Waiver";
 $body_class = "";
 require_once "../../../../includes/header.php";
 ?>
-    <article class="letter">
+    <article class="main letter">
       <p>The following is a letter we emailed to the Somerville Planning Board the evening of <time datetime="2017-05-16T21:22-04:00">May 16, 2017</time>, regarding Federal Realty’s request for a waiver on their development in Assembly Row.</p>
 
       <blockquote cite="http://example.com/facts">

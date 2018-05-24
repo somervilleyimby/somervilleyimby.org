@@ -3,7 +3,7 @@ $title = "Municipal Election Questionnaire Responses";
 $body_class = "election2017";
 require_once "../../includes/header.php";
 ?>
-    <section class="letter">
+    <section class="main">
       <p>We asked our 17 candidates for Aldermen to answer nine questions of ours. Below are their answers!</p>
 
       <p>We note that these candidates abstained from responding:</p>
@@ -162,7 +162,7 @@ require_once "../../includes/header.php";
       </table>
     </div>
 
-    <section class="letter">
+    <section class="main">
       <p>Below are our three short answer questions.</p>
 
       <ul>
