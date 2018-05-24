@@ -6,7 +6,7 @@ require_once "../../../../includes/header.php";
     <article class="main letter">
       <p>The following is a letter we emailed to the Somerville Planning Board the evening of <time datetime="2017-05-16T21:22-04:00">May 16, 2017</time>, regarding Federal Realty’s request for a waiver on their development in Assembly Row.</p>
 
-      <blockquote cite="http://example.com/facts">
+      <blockquote>
         <p>To the Somerville Planning Board:</p>
 
         <p>On behalf of Somerville YIMBY, we would like to concur with the Somerville Community Corporation, the Welcome Project, and Our Revolution: We think that the 20% requirement should not be waived.</p>
