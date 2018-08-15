@@ -49,7 +49,6 @@ DEPENDENCIES
   cap-deploy-tagger (~> 0.2)
   capistrano (~> 3.0)
   neat (~> 1.9)
-  sass (~> 3.5)
 
 BUNDLED WITH
    1.16.2
