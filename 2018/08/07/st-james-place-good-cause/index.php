@@ -4,7 +4,7 @@ $body_class = "";
 require_once "../../../../includes/header.php";
 ?>
     <article class="main letter">
-      <p>The following is a letter we emailed to the Cambridge Planning Board on <time datetime="2018-07-30T15:36-04:00">July 30, 2018</time>, regarding a special permit issued to the St. James Place redevelopment. We sent this letter because housing is a regional issue, and this project, especially, is in close proximity to Somerville.</p>
+      <p>The following is a letter we emailed to the Cambridge Planning Board on <time datetime="2018-08-07T16:58-04:00">August 7, 2018</time>, regarding a special permit issued to the St. James Place redevelopment. We sent this letter because housing is a regional issue, and this project, especially, is in close proximity to Somerville.</p>
 
       <blockquote>
         <p>Dear Chair, Vice Chair and Members of the Planning Board:</p>
