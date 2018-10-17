@@ -15,7 +15,7 @@ require_once "./includes/header.php";
     <section class="main">
       <h2>Our Next Meeting:</h2>
 
-      <p><a href="https://www.eventbrite.com/e/somerville-yimby-august-2018-general-meeting-registration-48371197554"><time datetime="2018-08-16T18:00-04:00">Thursday, August 16, 6–7:30pm</time></a> at <a href="https://www.eventbrite.com/e/somerville-yimby-august-2018-general-meeting-registration-48371197554#map-target">Aeronaut Brewing Company</a></p>
+      <p>To Be Determined!</p>
 
       <hr>
     </section>
