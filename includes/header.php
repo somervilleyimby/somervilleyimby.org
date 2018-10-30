@@ -58,7 +58,7 @@
   <header class="centered-navigation" role="banner">
     <div class="centered-navigation-wrapper">
       <a href="javascript:void(0)" class="mobile-logo">
-        <img src="/img/entering-somerville-ma.png" alt="Entering Somerville sign">
+        <img src="/img/logo-dark-128.png" alt="Somerville YIMBY logo">
       </a>
 
       <a href="javascript:void(0)" id="js-centered-navigation-mobile-menu" class="centered-navigation-mobile-menu">MENU</a>
@@ -67,7 +67,7 @@
         <ul id="js-centered-navigation-menu" class="centered-navigation-menu show">
           <li class="nav-link logo">
             <a href="/" class="logo">
-              <img src="/img/entering-somerville-ma.png" alt="Entering Somerville sign">
+              <img src="/img/logo-dark-128.png" alt="Somerville YIMBY logo">
             </a>
           </li>
           <li class="nav-link"><a href="/platform/">Platform</a></li>

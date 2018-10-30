@@ -2,7 +2,7 @@
 
   <footer class="footer" role="contentinfo">
     <div class="footer-logo">
-      <img src="/img/entering-somerville-ma.png" alt="Logo image">
+      <img src="/img/logo.png" alt="Somerville YIMBY logo">
     </div>
     <div class="footer-links">
       <!-- <ul>
