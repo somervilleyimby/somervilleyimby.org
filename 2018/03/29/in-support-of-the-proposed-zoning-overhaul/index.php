@@ -31,6 +31,5 @@ require_once "../../../../includes/header.php";
         <p>Stephen Moore</p>
         <p>Luke Edson</p>
       </blockquote>
-      </blockquote>
     </article>
 <?php require_once "../../../../includes/footer.php";
