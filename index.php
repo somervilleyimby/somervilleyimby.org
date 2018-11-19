@@ -15,7 +15,7 @@ require_once "./includes/header.php";
     <section class="main">
       <h2>Our Next Meeting:</h2>
 
-      <p><a href="https://www.eventbrite.com/e/somerville-yimby-november-2018-general-meeting-registration-51560142775">Tuesday, November 6, 6–7:30pm</time></a> at <a href="https://www.eventbrite.com/e/somerville-yimby-november-2018-general-meeting-registration-51560142775#map-target">Somerville Central Library Conference Room</a></p>
+      <p><a href="https://www.eventbrite.com/e/somerville-yimby-november-2018-general-meeting-registration-51560142775">Tuesday, January 10, 2019, 6–7:30pm</time></a> at <a href="https://www.eventbrite.com/e/somerville-yimby-november-2018-general-meeting-registration-51560142775#map-target">Somerville Central Library Conference Room</a></p>
 
       <hr>
     </section>
