@@ -1,7 +1,7 @@
 <section class="mailing-list">
-  <!-- Begin MailChimp Signup Form -->
+  <!-- Begin Mailchimp Signup Form -->
   <div id="mc_embed_signup wrapper">
-    <form action="//twitter.us15.list-manage.com/subscribe/post?u=68a88f40248b590553559963f&amp;id=3ab5c77995" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <form action="https://somervilleyimby.us15.list-manage.com/subscribe/post?u=68a88f40248b590553559963f&amp;id=3ab5c77995" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
       <fieldset id="mc_embed_signup_scroll">
         <h2>Subscribe to our mailing list</h2>
 
@@ -20,6 +20,20 @@
         <p class="mc-field-group">
           <label for="mce-LNAME">Last Name <span class="required">*</span></label>
           <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+        </p>
+
+        <p class="mc-field-group">
+          <label for="mce-WARD">What ward do you live or work in?</label>
+          <select name="WARD" class="" id="mce-WARD">
+            <option value=""></option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+          </select>
         </p>
 
         <p class="mc-field-group input-group">
@@ -44,6 +58,6 @@
     </form>
   </div>
   <script src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
-  <script>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='TWITTER';ftypes[3]='text';fnames[4]='FACEBOOK';ftypes[4]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+  <script>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[5]='PHONE';ftypes[5]='phone';fnames[3]='TWITTER';ftypes[3]='text';fnames[4]='FACEBOOK';ftypes[4]='text';fnames[6]='WARD';ftypes[6]='dropdown';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
   <!--End mc_embed_signup-->
 </section>
