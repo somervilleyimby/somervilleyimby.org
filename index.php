@@ -12,13 +12,16 @@ require_once "./includes/header.php";
       <hr>
     </section>
 
-    <section class="main">
-      <h2>Our Next Meeting:</h2>
+    <?php
+    // TODO: Schedule another general meeting!
+    // <section class="main">
+    //   <h2>Our Next Meeting:</h2>
 
-      <p><a href="https://www.eventbrite.com/e/somerville-yimby-february-2019-general-meeting-registration-53818136495">Monday, Feburary 4, 2019, 6–7:30pm</time></a> at <a href="https://www.eventbrite.com/e/somerville-yimby-february-2019-general-meeting-registration-53818136495#map-target">Somerville Central Library Conference Room</a></p>
+    //   <p><a href="https://www.eventbrite.com/e/somerville-yimby-february-2019-general-meeting-registration-53818136495">Monday, Feburary 4, 2019, 6–7:30pm</time></a> at <a href="https://www.eventbrite.com/e/somerville-yimby-february-2019-general-meeting-registration-53818136495#map-target">Somerville Central Library Conference Room</a></p>
 
-      <hr>
-    </section>
+    //   <hr>
+    // </section>
+    ?>
 
 <?php
 require_once "./includes/mailing-list.php";
