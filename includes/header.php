@@ -53,6 +53,8 @@
       });
     });
   </script>
+
+  <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/68a88f40248b590553559963f/42b751996c9fa816293ae695f.js");</script>
 </head>
 <body class="<?php echo $body_class; ?>">
   <header class="centered-navigation" role="banner">
