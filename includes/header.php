@@ -75,7 +75,7 @@
           <li class="nav-link"><a href="/platform/">Platform</a></li>
           <li class="nav-link"><a href="/calendar/">Calendar</a></li>
           <li class="nav-link"><a href="/who-are-we/">Who Are We</a></li>
-          <!-- <li class="nav-link"><a href="javascript:void(0)">Contact</a></li> -->
+          <li class="nav-link"><a href="mailto:steering@somervilleyimby.org?subject=From the website">Contact</a></li>
           <!-- <li class="nav-link"><a href="javascript:void(0)">Testimonials</a></li> -->
           <!-- <li id="js-centered-more" class="nav-link more"><a href="javascript:void(0)">More</a>
             <ul class="submenu">
