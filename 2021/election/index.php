@@ -8,4 +8,4 @@ require_once "../../includes/header.php";
 
       <p>We’ll be posting the responses we’ve received soon!</p>
     </article>
-<?php require_once "../../../../includes/footer.php";
+<?php require_once "../../includes/footer.php";
