@@ -1,6 +1,6 @@
 <?php
-$title = "Municipal Election Questionnaire Responses";
-$body_class = "election2017";
+$title = "2017 Somerville Election Questionnaire Responses";
+$body_class = "election";
 require_once "../../includes/header.php";
 ?>
     <section class="main">
