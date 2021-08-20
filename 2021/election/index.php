@@ -134,18 +134,18 @@ require_once "../../includes/header.php";
     <h3>Also Good</h3>
 
     <h4>Will Mbah</h4>
-    <p>Will didn’t fill out our survey, but we spoke with him about the issues. He too is aligned with Somerville YIMBY on increasing housing, moving away from auto-centric patterns, and strengthening tenant protections. He’s an important voice in the city and his emphasis on creating community benefits for large projects is excellent. He has spent less time on City Council than Katjana Ballantyne, but his record as a councilor has been excellent. We are, however, slightly concerned about a plan to<span class="c8"><a class="c6" href="https://www.google.com/url?q=https://www.wgbh.org/news/politics/2021/08/04/whats-at-stake-in-somervilles-mayoral-race&amp;sa=D&amp;source=editors&amp;ust=1629477724835000&amp;usg=AOvVaw2kSdTxdD1Bm7mRkScjXakG">increase inclusionary zoning requirements he mentioned in a recent WGBH article</a>. We feel that raising the requirement above 20% risks becoming counterproductive by reducing the total amount of housing produced, harming people who need subsidized and market-rate housing alike.</p>
+    <p>Will didn’t fill out our survey, but we spoke with him about the issues. He too is aligned with Somerville YIMBY on increasing housing, moving away from auto-centric patterns, and strengthening tenant protections. He’s an important voice in the city and his emphasis on creating community benefits for large projects is excellent. He has spent less time on City Council than Katjana Ballantyne, but his record as a councilor has been excellent. We are, however, slightly concerned about a plan to <a href="https://www.wgbh.org/news/politics/2021/08/04/whats-at-stake-in-somervilles-mayoral-race">increase inclusionary zoning requirements he mentioned in a recent WGBH article</a>. We feel that raising the requirement above 20% risks becoming counterproductive by reducing the total amount of housing produced, harming people who need subsidized and market-rate housing alike.</p>
 
     <h2>Councilor At-large</h2>
 
-    <p>We have chosen to endorse Willie Burnley, Charlotte Kelly, and Jake Wilson.</p>
+    <p>We have chosen to endorse Willie Burnley Jr, Charlotte Kelly, and Jake Wilson.</p>
 
     <p>Eve Seitchik, Justin Klekota and Kristin Strezo are also good choices.</p>
 
     <h3>Endorse</h3>
 
-    <h4>Willie Burnley</h4>
-    <p>Willie is in support of our key goals on increasing housing, moving away from auto-centric development, and enhancing tenant protections. He is more skeptical of market-rate housing than we are, but his approach to all the issues is deeply thought and nuanced. We know that he would be an excellent City Councilor.</p>
+    <h4>Willie Burnley Jr</h4>
+    <p>Willie is in support of our key goals on increasing housing, moving away from auto-centric development, and enhancing tenant protections. He is more skeptical of market-rate housing than we are, but his approach to all the issues is deeply thought and nuanced. We believe that he would be an excellent City Councilor.</p>
 
     <h4>Charlotte Kelly</h4>
     <p>Charlotte aligns with us on creation of affordable housing, moving away from auto-centric development, and tenant protections. She is much more skeptical of market-rate housing than we are, but we feel that she’s still a great choice. Her response notes that &ldquo;any serious approach to housing and development here in Somerville must have thoughtful processes rooted in equity, justice, and systemic solutions,&rdquo; and we agree entirely. </p>
