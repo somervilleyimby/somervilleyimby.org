@@ -1,5 +1,5 @@
 <?php
-$title = "2021 Somerville Election Candidate Survey";
+$title = "2021 Somerville YIMBY Voter Guide and Endorsements";
 $body_class = "election";
 require_once "../../includes/header.php";
 ?>
