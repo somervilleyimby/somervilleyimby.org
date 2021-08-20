@@ -27,7 +27,7 @@ require_once "../../includes/header.php";
 
     <ul class="default candidates">
       <li>
-        <h2>Mayoral Election</h2>
+        <h3>Mayoral Election</h3>
 
         <ul class="default">
           <li><strong><a href="https://drive.google.com/file/d/1-KcQV-E3IdwVQegkFd9OxqLWB_efZbYS/view?usp=sharing">Katjana Ballantyne</a></strong></li>
@@ -38,7 +38,7 @@ require_once "../../includes/header.php";
       </li>
 
       <li>
-        <h2>At-large</h2>
+        <h3>At-large</h3>
 
         <ul class="default">
           <li><strong><a href="https://drive.google.com/file/d/1-efNkIbd62zl6hvzmKVRrqHe7bRjtZ-c/view?usp=sharing">Willie Burnley Jr</a></strong></li>
@@ -53,7 +53,7 @@ require_once "../../includes/header.php";
       </li>
 
       <li>
-        <h2>Ward 1</h2>
+        <h3>Ward 1</h3>
 
         <ul class="default">
           <li>Matt McLaughlin <span class="incumbent">*</span> (no answers provided)</li>
@@ -61,7 +61,7 @@ require_once "../../includes/header.php";
       </li>
 
       <li>
-        <h2>Ward 2</h2>
+        <h3>Ward 2</h3>
 
         <ul class="default">
           <li><a href="https://drive.google.com/file/d/1-bhoHRNfIj-VNLiKcCzKfqM9Jzplg7al/view?usp=sharing">Stephenson Aman</a></li>
@@ -70,7 +70,7 @@ require_once "../../includes/header.php";
       </li>
 
       <li>
-        <h2>Ward 3</h2>
+        <h3>Ward 3</h3>
 
         <ul class="default">
           <li><strong><a href="https://drive.google.com/file/d/1-LEMnRxNOvwfTnfPUHJ8ebbd8jVfm8qB/view?usp=sharing">Ben Ewen-Campen <span class="incumbent">*</span></a></strong></li>
@@ -78,7 +78,7 @@ require_once "../../includes/header.php";
       </li>
 
       <li>
-        <h2>Ward 4</h2>
+        <h3>Ward 4</h3>
 
         <ul class="default">
           <li>Jesse Clingan <span class="incumbent">*</span> (no answers provided)</li>
@@ -86,7 +86,7 @@ require_once "../../includes/header.php";
       </li>
 
       <li>
-        <h2>Ward 5</h2>
+        <h3>Ward 5</h3>
 
         <ul class="default">
           <li><a href="https://drive.google.com/file/d/1-k89jnkD2BZrgpU4q7nY746D488f_8pj/view?usp=sharing">Tessa Bridge</a></li>
@@ -96,7 +96,7 @@ require_once "../../includes/header.php";
       </li>
 
       <li>
-        <h2>Ward 6</h2>
+        <h3>Ward 6</h3>
 
         <ul class="default">
           <li>Lance Davis <span class="incumbent">*</span> (no answers provided)</li>
@@ -104,7 +104,7 @@ require_once "../../includes/header.php";
       </li>
 
       <li>
-        <h2>Ward 7</h2>
+        <h3>Ward 7</h3>
 
         <ul class="default">
           <li><a href="https://drive.google.com/file/d/1-SrCRrUzvnhGFmVaFfYHjGtGFMUvMWJs/view?usp=sharing">Alex Anderson</a></li>
@@ -115,6 +115,8 @@ require_once "../../includes/header.php";
       </li>
     </ul>
   </section>
+
+  <hr>
 
   <section>
     <p>Here, we present some additional context on each candidate we endorsed, as well as candidates we consider good choices, even though we did not feel confident endorsing them.</p>
