@@ -43,7 +43,7 @@ require_once "../../includes/header.php";
         <ul class="default">
           <li><strong><a href="https://drive.google.com/file/d/1-efNkIbd62zl6hvzmKVRrqHe7bRjtZ-c/view?usp=sharing">Willie Burnley Jr</a></strong></li>
           <li><a href="https://drive.google.com/file/d/1-dA-IAL4vYjGQX2WyClC9a02oPTH_C0m/view?usp=sharing">Virginia Hussey</a></li>
-          <li><a href="https://drive.google.com/file/d/1-W5LvOF0nyTspp5-toR0v1sPGJoCAzSH/view?usp=sharing">Charlotte Kelly</a></li>
+          <li><strong><a href="https://drive.google.com/file/d/1-W5LvOF0nyTspp5-toR0v1sPGJoCAzSH/view?usp=sharing">Charlotte Kelly</a></strong></li>
           <li><a href="https://drive.google.com/file/d/1-SFMjD-4ou254AQEPw_RzhgwX-JG0QHc/view?usp=sharing">Justin Klekota</a></li>
           <li><a href="https://drive.google.com/file/d/1-cv0306ME1mZIIXiK9f9n7yNjS2dGpIb/view?usp=sharing">Tracey Leah Pratt</a></li>
           <li>Eve Seitchik (no answers provided)</a></li>
