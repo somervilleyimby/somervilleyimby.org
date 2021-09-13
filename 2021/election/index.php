@@ -148,7 +148,7 @@ require_once "../../includes/header.php";
 
     <p>We disagree with this very strongly. Housing supply is nothing like “trickle-down economics”, since it’s not about the willingess of the wealthy corporations to invest in their workers via lower taxes, but instead about ensuring that we have an abundance of homes, so high-income people do not compete with everyone else for the existing, limited supply of homes. We’re disappointed to see Will take this position.</p>
 
-    <p>To be clear: we’re all good with rent control or rent stabilization, we recognize that we must provide strong tenant protections & rights while <em>also</em> adding an abundance of homes.</p>
+    <p>To be clear, we also support strong tenant protections including rent stabilization, but they need to be paired with an abundance of homes.</p>
 
     <p>Our originally published statement on Will, for reference, is below:</p>
 
