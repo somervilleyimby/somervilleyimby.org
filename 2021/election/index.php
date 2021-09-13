@@ -7,6 +7,7 @@ require_once "../../includes/header.php";
   <h1>2021 Somerville YIMBY Voter Guide and Endorsements</h1>
   <p class="date">
     Published: <time datetime="2021-08-20T16:14:00-0400">Aug 20, 2021</time><br>
+    Last Updated: <time datetime="2021-09-13T10:23:00-0400">Sep 13, 2021</time>
   </p>
 
   <p>Somerville YIMBY circulated a short survey to candidates for mayor and city council this summer. While all candidate surveys are limited in scope and necessarily simplify complex issues, our survey definitely erred on the side of over-simplification, especially in trying to squeeze Yes/No answers out of complex questions. We received excellent feedback from our respondents, and we acknowledge that it has a number of shortcomings. Please use this as a supplement to your own decisions.</p>
@@ -136,9 +137,21 @@ require_once "../../includes/header.php";
     <h4>Mary Cassesso</h4>
     <p>Like Katjana & Will, Mary also supports our key goals and has a nuanced and thoughtful view about achieving them. She does not have experience on City Council, but we believe that her experience as an executive manager leading a large organization would make her very effective.</p>
 
-    <h3>Also Good</h3>
+    <h3>Of Note</h3>
 
     <h4>Will Mbah</h4>
+    <p><strong>Updated <time datetime="2021-09-13T10:23:00-0400">Monday, Sep 13, 10:23 AM</time></strong></p>
+
+    <p>On Aug 31, <a href="https://binjonline.com/2021/08/31/somerville-mayoral-candidates-on-rent-control/"></a>“Somerville Mayoral Candidates on Rent Control”</a> was published by Boston Institute for Nonprofit Journalism, and Will had this to say:</p>
+
+    <blockquote><p>Some will argue that this housing crisis is one we can build our way out of: If we simply allow developers to build more apartments with little to no regulation, the cost of rent will decrease and become affordable to working class families. One only has to look at the skyrocketing rental prices that have resulted from this approach to know it is untrue. It is the same logic used by advocates of trickle-down economics and those who oppose increasing the minimum wage.</p></blockquote>
+
+    <p>We disagree with this very strongly. Housing supply is nothing like “trickle-down economics”, since it’s not about the willingess of the wealthy corporations to invest in their workers via lower taxes, but instead about ensuring that we have an abundance of homes, so high-income people do not compete with everyone else for the existing, limited supply of homes. We’re disappointed to see Will take this position.</p>
+
+    <p>To be clear: we’re all good with rent control or rent stabilization, we recognize that we must provide strong tenant protections & rights while <em>also</em> adding an abundance of homes.</p>
+
+    <p>Our originally published statement on Will, for reference, is below:</p>
+
     <p>Will didn’t fill out our survey, but we spoke with him about the issues. He too is aligned with Somerville YIMBY on increasing housing, moving away from auto-centric patterns, and strengthening tenant protections. He’s an important voice in the city and his emphasis on creating community benefits for large projects is excellent. He has spent less time on City Council than Katjana Ballantyne, but his record as a councilor has been excellent. We are, however, slightly concerned about a plan to <a href="https://www.wgbh.org/news/politics/2021/08/04/whats-at-stake-in-somervilles-mayoral-race">increase inclusionary zoning requirements he mentioned in a recent WGBH article</a>. We feel that raising the requirement above 20% risks becoming counterproductive by reducing the total amount of housing produced, harming people who need subsidized and market-rate housing alike.</p>
 
     <h2>Councilor At-large</h2>
