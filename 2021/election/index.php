@@ -144,7 +144,7 @@ require_once "../../includes/header.php";
 
     <p>On Aug 31, <a href="https://binjonline.com/2021/08/31/somerville-mayoral-candidates-on-rent-control/"></a>“Somerville Mayoral Candidates on Rent Control”</a> was published by Boston Institute for Nonprofit Journalism, and Will had this to say:</p>
 
-    <blockquote><p>Some will argue that this housing crisis is one we can build our way out of: If we simply allow developers to build more apartments with little to no regulation, the cost of rent will decrease and become affordable to working class families. One only has to look at the skyrocketing rental prices that have resulted from this approach to know it is untrue. It is the same logic used by advocates of trickle-down economics and those who oppose increasing the minimum wage.</p></blockquote>
+    <blockquote><p>“Some will argue that this housing crisis is one we can build our way out of: If we simply allow developers to build more apartments with little to no regulation, the cost of rent will decrease and become affordable to working class families. One only has to look at the skyrocketing rental prices that have resulted from this approach to know it is untrue. It is the same logic used by advocates of trickle-down economics and those who oppose increasing the minimum wage.”</p></blockquote>
 
     <p>We disagree with this very strongly. Housing supply is nothing like “trickle-down economics”, since it’s not about the willingess of the wealthy corporations to invest in their workers via lower taxes, but instead about ensuring that we have an abundance of homes, so high-income people do not compete with everyone else for the existing, limited supply of homes. We’re disappointed to see Will take this position.</p>
 
