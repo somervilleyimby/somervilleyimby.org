@@ -5,6 +5,9 @@ require_once "../../includes/header.php";
 ?>
 <article class="main">
   <h1>2021 Somerville YIMBY Voter Guide and Endorsements</h1>
+  <p class="date">
+    Published: <time datetime="2021-08-20T16:14:00-0400">Aug 20, 2021</time><br>
+  </p>
 
   <p>Somerville YIMBY circulated a short survey to candidates for mayor and city council this summer. While all candidate surveys are limited in scope and necessarily simplify complex issues, our survey definitely erred on the side of over-simplification, especially in trying to squeeze Yes/No answers out of complex questions. We received excellent feedback from our respondents, and we acknowledge that it has a number of shortcomings. Please use this as a supplement to your own decisions.</p>
 

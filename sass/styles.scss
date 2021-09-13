@@ -89,6 +89,11 @@ $max-width: em(1260);
   }
 }
 
+.date {
+  font-size: smaller;
+  font-style: italic;
+}
+
 .footer {
   $base-spacing: 1.5em !default;
   $action-color: #477dca !default;
