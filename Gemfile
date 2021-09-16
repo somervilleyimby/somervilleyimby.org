@@ -6,4 +6,7 @@ group :development do
   gem 'bourbon',                      '~> 5.0'
   gem 'neat',                         '~> 1.9'
   gem 'bitters',                      '~> 1.7'
+  # Needed for ed25519 support with Capistrano
+  gem 'bcrypt_pbkdf'
+  gem 'ed25519'
 end
