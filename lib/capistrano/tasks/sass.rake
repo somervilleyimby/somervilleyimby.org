@@ -3,6 +3,7 @@ namespace :sass do
     invoke 'sass:build'
     invoke 'sass:upload'
     invoke 'sass:asset_rev'
+    invoke 'sass:restart_php'
   end
 
   desc 'Build the app for release'
@@ -45,6 +46,18 @@ namespace :sass do
           'includes/header.php'
         )
       end
+    end
+  end
+
+  desc 'Restart PHP-FPM to pick up new changes'
+  task :restart_php do
+    on roles :web do
+      execute(
+        :sudo,
+        :systemctl,
+        :restart,
+        'php7.2-fpm.service'
+      )
     end
   end
 end
