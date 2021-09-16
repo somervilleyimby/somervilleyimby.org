@@ -7,7 +7,7 @@ require_once "../../includes/header.php";
   <h1>2021 Somerville YIMBY Voter Guide and Endorsements</h1>
   <p class="date">
     Published: <time datetime="2021-08-20T16:14:00-0400">Aug 20, 2021</time><br>
-    Last Updated: <time datetime="2021-09-13T10:23:00-0400">Sep 13, 2021</time>
+    Last Updated: <time datetime="2021-09-16T19:04:00-0400">Sep 16, 2021</time>
   </p>
 
   <p>Somerville YIMBY circulated a short survey to candidates for mayor and city council this summer. While all candidate surveys are limited in scope and necessarily simplify complex issues, our survey definitely erred on the side of over-simplification, especially in trying to squeeze Yes/No answers out of complex questions. We received excellent feedback from our respondents, and we acknowledge that it has a number of shortcomings. Please use this as a supplement to your own decisions.</p>
@@ -24,6 +24,8 @@ require_once "../../includes/header.php";
 
   <p><em>Incumbents are indicated with an <span class="incumbent">*</span></em></p>
 
+  <p><em>Candidates who did not proceed past the preliminary election on <time datetime="2021-09-14">Sep 14, 2021</time> have been removed for clarity.</em></p>
+
   <p><em>Endorsements are in <strong>bold</strong>.</em></p>
 
   <section>
@@ -35,9 +37,7 @@ require_once "../../includes/header.php";
 
         <ul class="default">
           <li><strong><a href="https://drive.google.com/file/d/1-KcQV-E3IdwVQegkFd9OxqLWB_efZbYS/view?usp=sharing">Katjana Ballantyne</a></strong></li>
-          <li><strong><a href="https://drive.google.com/file/d/1-m28g1LdSTKSDoyiqshqEVA7zrPkhHfu/view?usp=sharing">Mary Cassesso</a></strong></li>
           <li>Wilfred “Will” Mbah (no answers provided)</li>
-          <li>William “Billy” Tauro (no answers provided)</li>
         </ul>
       </li>
 
@@ -94,7 +94,6 @@ require_once "../../includes/header.php";
 
         <ul class="default">
           <li><a href="https://drive.google.com/file/d/1-k89jnkD2BZrgpU4q7nY746D488f_8pj/view?usp=sharing">Tessa Bridge</a></li>
-          <li><a href="https://drive.google.com/file/d/1-hpM-dVRccjZyayD42BvMvWBqbQ7MqZj/view?usp=sharing">Todd Easton</a></li>
           <li><strong><a href="https://drive.google.com/file/d/1-aInfhVwdcptVOeoQJEw1yLsKr7aZG4n/view?usp=sharing">Beatriz Gómez-Mouakad</a></strong></li>
         </ul>
       </li>
@@ -111,8 +110,6 @@ require_once "../../includes/header.php";
         <h3>Ward 7</h3>
 
         <ul class="default">
-          <li><a href="https://drive.google.com/file/d/1-SrCRrUzvnhGFmVaFfYHjGtGFMUvMWJs/view?usp=sharing">Alex Anderson</a></li>
-          <li><a href="https://drive.google.com/file/d/1-EGBqYKGQTCAB8j6K6ys7X0LgwV5eXJg/view?usp=sharing">Maria Koutsoubaris</a></li>
           <li><a href="https://drive.google.com/file/d/1-gZW8SgYbfnKQjlNOSjPkKhkh51geAl4/view?usp=sharing">Becca Miller</a></li>
           <li><strong><a href="https://drive.google.com/file/d/1-ZkO5Bqbl9cj5g6dafnGbc4NIan4CGGw/view?usp=sharing">Judy Pineda Neufeld</a></strong></li>
         </ul>
@@ -133,9 +130,6 @@ require_once "../../includes/header.php";
 
     <h4>Katjana Ballantyne</h4>
     <p>Katjana supports our three key goals of housing production, reducing auto-dependence, and enhancing tenant protections. Our conversation with her and her comments on our survey gave us a great deal of confidence about her thoughtful and informed understanding of the intersection of commercial development, tax base, climate change, and funding for affordable housing. She also has the most experience on city council.</p>
-
-    <h4>Mary Cassesso</h4>
-    <p>Like Katjana & Will, Mary also supports our key goals and has a nuanced and thoughtful view about achieving them. She does not have experience on City Council, but we believe that her experience as an executive manager leading a large organization would make her very effective.</p>
 
     <h3>Of Note</h3>
 
@@ -238,9 +232,6 @@ require_once "../../includes/header.php";
     <p>Judy aligns with us on increasing housing supply, addressing transit/parking issues, and tenant protections. She supports added density near GLX stations to create more affordable housing, an expansion of the Affordable Housing Overlay, and reduced mandatory parking requirements.</p>
 
     <h3>Also Good</h3>
-
-    <h4>Alexander H Anderson</h4>
-    <p>Alexander aligns with us on increasing housing supply, addressing transit/parking issues, and tenant protections. He states that he would focus on and prioritize affordable housing over market-rate, and notes that nuance and systems thinking are important.</p>
 
     <h4>Becca Miller</h4>
     <p>Becca aligns with us on housing, transit and tenant protections but is much more skeptical of market-rate housing.</p>
