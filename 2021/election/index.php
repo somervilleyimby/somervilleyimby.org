@@ -158,7 +158,7 @@ require_once "../../includes/header.php";
 
     <p>We have chosen to endorse Willie Burnley Jr, Charlotte Kelly, and Jake Wilson.</p>
 
-    <p>Eve Seitchik, Justin Klekota and Kristin Strezo are also good choices.</p>
+    <p>Eve Seitchik, Justin Klekota and Kristen Strezo are also good choices.</p>
 
     <h3>Endorse</h3>
 
@@ -180,7 +180,7 @@ require_once "../../includes/header.php";
     <p>Eve did not complete our survey, but we spoke with them briefly about the issues. Critically, they agree with us about the need to create affordable housing, and on climate and transit issues. Although we disagree with them about the relative value of market-rate housing production, Eve is a thoughtful and forceful advocate for climate, transit and housing justice.</p>
 
     <h4>Kristen Strezo</h4>
-    <p>Kristin’s survey answers state that she aligns with us on housing production, transit/parking issues, and tenant protections. She does not support reallocating police funding to housing and social services. She is also the sole incumbent running for an at-large seat.</p>
+    <p>Kristen’s survey answers state that she aligns with us on housing production, transit/parking issues, and tenant protections. She does not support reallocating police funding to housing and social services. She is also the sole incumbent running for an at-large seat.</p>
 
     <h2>Ward 1</h2>
 
