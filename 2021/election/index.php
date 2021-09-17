@@ -136,7 +136,7 @@ require_once "../../includes/header.php";
     <h4>Will Mbah</h4>
     <p><strong>Updated <time datetime="2021-09-13T10:23:00-0400">Monday, Sep 13, 10:23 AM</time></strong></p>
 
-    <p>On Aug 31, <a href="https://binjonline.com/2021/08/31/somerville-mayoral-candidates-on-rent-control/"></a>“Somerville Mayoral Candidates on Rent Control”</a> was published by Boston Institute for Nonprofit Journalism, and Will had this to say:</p>
+    <p>On Aug 31, <a href="https://binjonline.com/2021/08/31/somerville-mayoral-candidates-on-rent-control/">“Somerville Mayoral Candidates on Rent Control”</a> was published by Boston Institute for Nonprofit Journalism, and Will had this to say:</p>
 
     <blockquote><p>“Some will argue that this housing crisis is one we can build our way out of: If we simply allow developers to build more apartments with little to no regulation, the cost of rent will decrease and become affordable to working class families. One only has to look at the skyrocketing rental prices that have resulted from this approach to know it is untrue. It is the same logic used by advocates of trickle-down economics and those who oppose increasing the minimum wage.”</p></blockquote>
 
