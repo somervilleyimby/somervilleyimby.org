@@ -26,6 +26,14 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
+      - name: start deployment
+        uses: bobheadxi/deployments@v0.6.0
+        id: deployment
+        with:
+          step: start
+          token: ${{ secrets.GITHUB_TOKEN }}
+          env: prod
+
       # Install Ruby 3.x
       - uses: ruby/setup-ruby@v1
         with:
@@ -40,3 +48,12 @@ jobs:
 
       # Deploy latest code via Capistrano
       - run: bundle exec cap prod deploy
+
+      - name: update deployment status
+        uses: bobheadxi/deployments@v0.6.0
+        if: always()
+        with:
+          step: finish
+          token: ${{ secrets.GITHUB_TOKEN }}
+          status: ${{ job.status }}
+          deployment_id: ${{ steps.deployment.outputs.deployment_id }}
