@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 namespace :sass do
   task :default do
     invoke 'sass:build'
@@ -19,7 +21,7 @@ namespace :sass do
     on roles :web do
       execute :mkdir, "#{release_path}/css"
 
-      %w(styles).each do |file|
+      %w[styles].each do |file|
         info "Uploading #{release_path}/css/#{file}.css"
         upload!(
           "./css/#{file}.css",
