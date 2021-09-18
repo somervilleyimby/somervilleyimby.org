@@ -40,11 +40,10 @@ jobs:
           ruby-version: "3.0"
           bundler-cache: true
 
-      # Set up an SSH private key & add the remote host to known_hosts
-      - uses: kielabokkie/ssh-key-and-known-hosts-action@v1
+      # Set up an SSH private key
+      - uses: webfactory/ssh-agent@v0.5.3
         with:
           ssh-private-key: ${{ secrets.ID_ED25519_DEPLOY_SOMERVILLEYIMBY }}
-          ssh-host: 167.99.21.174
 
       # Deploy latest code via Capistrano
       - run: bundle exec cap prod deploy
