@@ -23,12 +23,39 @@ email: steering@somervilleyimby.org
 description: >- # this means to ignore newlines until "baseurl:"
   A group of Somerville residents advocating for smart growth that benefits everyone.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://somervilleyimby.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SomervilleYIMBY
-github_username:  somervilleyimby
+url: https://somervilleyimby.org # the base hostname & protocol for your site, e.g. http://example.com
+locale: en-us
+logo: /img/logo@3x.png
+
+twitter:
+  username: SomervilleYIMBY
+  card: summary
+
+social:
+  links:
+    - https://twitter.com/SomervilleYIMBY
+    - https://www.facebook.com/SomervilleYIMBY
+    - https://github.com/somervilleyimby
+
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/SomervilleYIMBY
+    icon: fab fa-twitter-square
+  - title: Facebook
+    url: https://www.facebook.com/SomervilleYIMBY
+    icon: fab fa-facebook-square
+  - title: Feed
+    url: /feed.xml
+    icon: fas fa-rss-square
+
+google_analytics: UA-96931256-1
+
+copyright: © 2017–2021 Somerville YIMBY
+
+permalink: pretty
 
 # Build settings
-theme: minima
+remote_theme: mmistakes/so-simple-theme@8e63baa
 plugins:
   - jekyll-feed
 

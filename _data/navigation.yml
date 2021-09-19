@@ -1,0 +1,14 @@
+- title: Home
+  url: /
+- title: Platform
+  url: /platform/
+- title: Who Are We
+  url: /who-are-we/
+- title: Calendar
+  url: /calendar/
+- title: 2021 Election Guide
+  url: /2021/election/
+# - title: Search
+#   url: /search/
+- title: Contact
+  url: mailto:steering@somervilleyimby.org?subject=From the website
