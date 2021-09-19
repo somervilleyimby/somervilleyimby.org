@@ -22,7 +22,7 @@ title: Somerville YIMBY
 email: steering@somervilleyimby.org
 description: >- # this means to ignore newlines until "baseurl:"
   A group of Somerville residents advocating for smart growth that benefits everyone.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/somervilleyimby.org" # the subpath of your site, e.g. /blog
 url: https://somervilleyimby.org # the base hostname & protocol for your site, e.g. http://example.com
 locale: en-us
 logo: /img/logo@3x.png
