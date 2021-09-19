@@ -31,7 +31,3 @@ We support policies that:
 * Reduce carbon footprint and use space and energy efficiently
 * Help Somerville coordinate with other towns and cities to address housing and development issues regionally
 * Make the process of planning, permitting, and building transparent and&nbsp;predictable
-
-* * *
-
-{% include mailing-list.html %}
