@@ -1,3 +1,5 @@
-/css
-/Gemfile.lock
-.secrets
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
