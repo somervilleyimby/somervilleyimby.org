@@ -1,12 +1,10 @@
 ---
 layout: page
-title: What Exactly Do We Mean by “Affordable Housing?” - Somerville YIMBY Resources
+title: What Exactly Do We Mean by “Affordable Housing?”
 permalink: /resources/affordable-housing/
 ---
 _Published: <time datetime="2022-03-31T15:04:00-0400">Mar 31, 2022</time>_  
 _Last Updated: <time datetime="2022-03-31T15:04:00-0400">Mar 31, 2022</time>_
-
-# What Exactly Do We Mean by “Affordable Housing?”
 
 Everyone’s heard about the importance of affordable housing. But there’s a lot of debate about what affordability actually means for a community. Let’s take a deeper look.
 

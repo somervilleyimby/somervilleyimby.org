@@ -1,12 +1,10 @@
 ---
 layout: page
-title: What is Zoning and Why Does It Matter? — Somerville YIMBY Resources
+title: What is Zoning and Why Does It Matter?
 permalink: /resources/zoning/
 ---
 _Published: <time datetime="2022-03-31T15:04:00-0400">Mar 31, 2022</time>_  
 _Last Updated: <time datetime="2022-03-31T15:04:00-0400">Mar 31, 2022</time>_
-
-# What is Zoning and Why Does It Matter?
 
 Zoning is the term for rules that cities put in place to determine what kinds of buildings can be built where. It can be complex and technical, but it’s a force that shapes the places we live, and it often determines how a city grows and thrives — or doesn’t. Tight zoning can block the creation of sufficient housing, which leads to the skyrocketing prices we’ve seen in recent years. It can also create huge negative impacts for economic inequality, racial segregation, and the environment. That’s why Somerville YIMBY and other pro-housing groups have focused on it so closely.
 
