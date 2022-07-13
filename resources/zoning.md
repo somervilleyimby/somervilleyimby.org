@@ -6,15 +6,15 @@ permalink: /resources/zoning/
 _Published: <time datetime="2022-03-31T15:04:00-0400">Mar 31, 2022</time>_  
 _Last Updated: <time datetime="2022-03-31T15:04:00-0400">Mar 31, 2022</time>_
 
-Zoning is the term for rules that cities put in place to determine what kinds of buildings can be built where. It can be complex and technical, but it’s a force that shapes the places we live, and it often determines how a city grows and thrives — or doesn’t. Tight zoning can block the creation of sufficient housing, which leads to the skyrocketing prices we’ve seen in recent years. It can also create huge negative impacts for economic inequality, racial segregation, and the environment. That’s why Somerville YIMBY and other pro-housing groups have focused on it so closely.
+Zoning is the term for rules that cities put in place to determine what kinds of buildings can be built where. It can be complex and technical, but it’s a force that shapes the places we live, and it often determines how a city grows and thrives — or doesn’t. Too-strict zoning can block the creation of sufficient housing, which leads to the skyrocketing prices we’ve seen in recent years. It can also create huge negative impacts for economic inequality, racial segregation, and the environment. That’s why Somerville YIMBY and other pro-housing groups have focused on it so closely.
 
 ## Zoning and Segregation
 
-Zoning laws can help cities guide their development in positive ways, and keep noxious industries away from homes and commerce, but the first zoning laws in the US were created to promote segregation. They achieved that mostly by keeping apartments and multifamily homes away from single-family homes. This worked because people of color were often shut out of mortgage lending, meaning that a neighborhood of owner-occupied houses was almost by definition entirely white. Federal lending policies that gave better ratings to all-white neighborhoods and restrictive covenants prohibiting future owners from selling to nonwhite people reinforced that segregation. To learn more about zoning’s role in creating and perpetuating segregation, read [Richard Rothstein’s book _The Color of Law_](https://wwnorton.com/books/the-color-of-law/).
+Zoning laws can help cities guide their development in positive ways, and keep noxious industries away from homes and commerce, but the first zoning laws in the US were created to promote segregation. They achieved that mostly by keeping apartments and multifamily homes away from single-family homes. This worked because people of color were often shut out of mortgage lending, meaning that a neighborhood of owner-occupied houses was almost by definition entirely white. That segregation was reinforced by federal lending policies that gave better ratings to all-white neighborhoods and by restrictive covenants prohibiting future owners from selling to nonwhite people. To learn more about zoning’s role in creating and perpetuating segregation, read [Richard Rothstein’s book _The Color of Law_](https://wwnorton.com/books/the-color-of-law/).
 
 ## Zoning and Economic Inequality
 
-In the US, access to clean air, good schools and good jobs is closely tied to where you live, and wealthy communities that prohibit the creation of sufficient housing — and enough variety of housing types — are effectively pricing out lower-income families. Requiring big homes on big lots effectively requires building only the most-expensive housing types.
+In the US, access to clean air, good schools, and good jobs is closely tied to where you live. Wealthy communities that prohibit the creation of sufficient housing and sufficient variety of housing are effectively pricing out lower-income families. Requiring big homes on big lots effectively requires building only the most-expensive housing types, and that keeps opportunities away from lower-income people.
 
 ## Zoning and the Environment
 
@@ -28,15 +28,15 @@ Keeping things simple and allowing construction without special permits (“by r
 
 * A complex zoning code requires specialized knowledge, which means hiring insiders or expensive specialists
 * Delays and uncertainty raise prices and reduce the amount of housing created
-* A discretionary permitting process leaves the door to favoritism or even outright corruption 
+* A discretionary permitting process opens a door to favoritism or even outright corruption 
 
 California, especially in the San Francisco Bay Area, is [emblematic of the danger of well-intentioned but counter-productive permit and process requirements](https://www.nytimes.com/2022/03/13/opinion/berkeley-enrollment-climate-crisis.html), but similar issues play out in the Boston area and in many other high-cost cities.
 
 ## Zoning in Somerville
 
-In Somerville and many other places in the US, zoning got a lot stricter over the course of the 20th century, making existing buildings “nonconforming” — that is, they couldn’t be re-built under current rules. In 2016, a group of researchers pointed out that the Somerville zoning rules [prohibited the construction of nearly every home that already existed](https://cityobservatory.org/the-illegal-city-of-somerville/). Fortunately, the city wrote an entirely new zoning code, passed in 2019, that is easier to understand and work with.
+In Somerville and many other places in the US, zoning got a lot stricter over the course of the 20th century, making existing buildings “nonconforming," meaning that they couldn’t be re-built under current rules. In 2016, a group of researchers pointed out that the Somerville zoning rules [prohibited the construction of nearly every home that already existed](https://cityobservatory.org/the-illegal-city-of-somerville/). Fortunately, the city wrote an entirely new zoning code, passed in 2019, that is easier to understand and work with. It also comes a lot closer to matching the fabric of the city that actually exists.
 
-Somerville’s new zoning code is what is called a “form-based” code: it focuses most on the overall shape and size of buildings in each of the various districts.
+Somerville’s new zoning rules are called a “form-based” code: they focus on the overall shape and size of buildings in each of the various districts.
 
 You can find complete details at [somervillezoning.com](https://www.somervillezoning.com/), but the most common districts in the city are:
 
@@ -54,20 +54,15 @@ Somerville YIMBY is broadly in agreement with our city’s current zoning code, 
 
 ### Neighborhood Residence
 
-Our least-dense district is far better than the “single-family only” rules seen in other cities. But it could be better:
-
-* It should allow [accessory dwelling units](https://www.mass.gov/service-details/smart-growth-smart-energy-toolkit-modules-accessory-dwelling-units-adu) (“in-law apartments”) with far fewer restrictions.
-    * Today, homeowners are allowed to add a third unit to a two-family building only if the new apartment is part of the city’s affordable housing program.
-    * The result has been very little new housing created at any price.
-* It should allow three-family buildings like our iconic triple-deckers with far fewer restrictions.
+Our least-dense district is far better than the “single-family only” rules seen in other cities. But it could be better. For example, it should allow [accessory dwelling units](https://www.mass.gov/service-details/smart-growth-smart-energy-toolkit-modules-accessory-dwelling-units-adu) (“in-law apartments”) and three-family buildings like our iconic triple-deckers with far fewer restrictions.
 
 ### Midrise Districts
 
-Code currently requires special permits to build apartments; this use should be allowed without special permits. These permits have generally been granted, but there’s not a really good reason to require them at all.
+We currently require special permits to build apartments in midrise districts, but should allow that use by right. These permits have generally been granted, but there’s not a really good reason to require them at all.
 
 ### Parking Requirements
 
-Zoning codes in other cities require that new buildings include a lot of off-street parking, which raises costs and encourages people to drive. Somerville’s code is better than most, because it doesn’t require nearly as much, and actually sets a maximum amount of parking for construction near transit. We’d like to see a few tweaks to the parking rules to encourage less parking construction citywide, on the general principle that space dedicated to cars is space we can’t dedicate to people. Obviously we’re not going to immediately get rid of all cars, but we shouldn’t be building extra parking and other infrastructure that will focus our future growth around cars.
+Zoning codes in other cities require that new buildings include a lot of off-street parking, which raises costs and encourages people to drive. Somerville’s code is better than most, because it doesn’t require nearly as much, and actually sets a maximum amount of parking for construction near transit. We’d like to see a few tweaks to the parking rules to encourage less parking construction citywide, on the general principle that space dedicated to cars is space we can’t dedicate to people.
 
 ### Map Changes
 
