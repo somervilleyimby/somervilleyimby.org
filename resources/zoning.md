@@ -34,7 +34,7 @@ California, especially in the San Francisco Bay Area, is [emblematic of the dang
 
 ## Zoning in Somerville
 
-In Somerville and many other places in the US, zoning got a lot stricter over the course of the 20th century, making existing buildings “nonconforming," meaning that they couldn’t be re-built under current rules. In 2016, a group of researchers pointed out that the Somerville zoning rules [prohibited the construction of nearly every home that already existed](https://cityobservatory.org/the-illegal-city-of-somerville/). Fortunately, the city wrote an entirely new zoning code, passed in 2019, that is easier to understand and work with. It also comes a lot closer to matching the fabric of the city that actually exists.
+In Somerville and many other places in the US, zoning got a lot stricter over the course of the 20th century, making existing buildings “nonconforming,” meaning that they couldn’t be re-built under current rules. In 2016, a group of researchers pointed out that the Somerville zoning rules [prohibited the construction of nearly every home that already existed](https://cityobservatory.org/the-illegal-city-of-somerville/). Fortunately, the city wrote an entirely new zoning code, passed in 2019, that is easier to understand and work with. It also comes a lot closer to matching the fabric of the city that actually exists.
 
 Somerville’s new zoning rules are called a “form-based” code: they focus on the overall shape and size of buildings in each of the various districts.
 

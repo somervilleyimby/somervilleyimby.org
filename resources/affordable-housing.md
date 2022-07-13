@@ -12,7 +12,7 @@ Everyone’s heard about the importance of affordable housing. But there’s a l
 
 In everyday use, the word “affordable” is simple but vague: it means that something is reasonably priced. But for housing, we need to get way more specific. Conveniently, there’s a federal definition: a home is affordable to you if it costs no more than 30% of your household income to live in it.
 
-Spending more than that means you’re “rent burdened," and there are a lot of rent burdened people out there right now. In fact, the US is so short on homes that in many neighborhoods, a household making the median income can’t afford the median apartment. For reference, the Boston area median income (AMI) is $96,650 for two people, meaning the median two-person household could reasonably afford $2,416 a month in rent.
+Spending more than that means you’re “rent burdened,” and there are a lot of rent burdened people out there right now. In fact, the US is so short on homes that in many neighborhoods, a household making the median income can’t afford the median apartment. For reference, the Boston area median income (AMI) is $96,650 for two people, meaning the median two-person household could reasonably afford $2,416 a month in rent.
 
 If that figure sounds high to you, it’s worth noting that the “Area” in “Area Median Income” is pretty big. For the Boston region, it runs from roughly Providence to Seabrook, and includes cities and towns with an enormous range of incomes and housing prices. Defining affordability by AMI is nowhere near perfect, but it gives us a rough estimate of what we think the midpoint of a regional housing market ought to be: the typical household should be able to rent the typical apartment, or pay a mortgage on a typical home/condo, with about a third of their income.
 
@@ -25,7 +25,7 @@ That’s where subsidized affordable housing, the kind of housing planners and a
 1. Low-Income Housing Tax Credit (LIHTC) developments, where banks, for-profit and nonprofit developers, and investors assemble complex financing arrangements to build apartments with below-market rents for some or all units, often for a fixed period of time like 30 years.
 2. Inclusionary units, where for-profit developers of larger buildings are required to set aside a percentage (20% in Somerville) of apartments for lower-income residents in exchange for getting permits to rent the rest at market rate.
 
-## And Now We Ask "For Whom?"
+## And Now We Ask “For Whom?”
 
 Even for a nonprofit or a government agency, it’s expensive to build and run an apartment building, and nearly every subsidized apartment still has to charge rent. How much varies widely. Public housing may be open to people with little or no income, while residents of LIHTC apartments typically make a mix between 30% to 80% of AMI, and the inclusionary units in market-rate buildings tend to be affordable to families making 60% to 80% of AMI. That means that rent in an “affordable” apartment might range from $887 to $2,131 a month.
 
