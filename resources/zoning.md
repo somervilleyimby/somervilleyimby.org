@@ -38,36 +38,38 @@ In Somerville and many other places in the US, zoning got a lot stricter over th
 
 Somerville’s new zoning rules are called a “form-based” code: they focus on the overall shape and size of buildings in each of the various districts.
 
-You can find complete details at [somervillezoning.com](https://www.somervillezoning.com/), but the most common districts in the city are:
+The most common districts in the city are:
 
-* Neighborhood Residence: Mostly 1–2 family residential buildings.
-* Urban Residence: Mostly multifamily residential buildings, with some corner stores and small retail.
-* Midrise 3, 4, and 5: 3-5 story buildings, mostly commercial. Large apartment buildings allowed by special permit.
-* Commercial Core 3, 4, and 5: 3-5 story commercial buildings.
-* High Rise: Tall buildings.
+* Neighborhood Residence (NR): One and two-family residential buildings, with the occasional triple-decker.
+* Urban Residence (UR): Multifamily residential buildings such as triple-deckers, row houses, and small-to-medium apartment buildings.
+* Midrise 3, 4, 5 and 6 (MR3, MR4, MR5, MR6): 3-6 story buildings, such as large apartment buildings with retail on the ground floor.
+* Commercial Core (CC): Only business uses.
+* High Rise (HR): Tall buildings (7 or more stories).
 
-We also have overlay districts, which modify the base rules for specific reasons, ranging from flood risks to special development areas like Assembly Square. One of our favorites is the Affordable Housing Overlay (AHO), which allows more height and faster permitting for projects where every home is affordable. For more information about the exact definition of affordability and how we achieve it in Somerville, see [“What exactly do we mean by Affordable Housing?”](/resources/affordable-housing/)
+We also have overlay districts, which modify the base rules for specific reasons. For example, the Flood Zone overlay requires additional flood control measures, and the Small Business Overlay allows corner stores and other light commercial activities in parts of NR and UR. One of our favorites is the Affordable Housing Overlay (AHO), which allows more height and faster permitting for projects where every home is subsidized affordable. For more information about the exact definition of affordability and how we achieve it in Somerville, see [“What exactly do we mean by Affordable Housing?”](/resources/affordable-housing/).
+
+You can find the complete zoning ordinance and a map at [somervillezoning.com](https://www.somervillezoning.com/). Don't be intimidated by the length: each zone definition begins with a short description of why we have it and what's allowed in it, so you can get a working knowledge of the rules in just a few pages. In fact, just reading pages 37, 77, and 115 will give you a general understanding of what buildings are allowed in most of the city!
 
 ## Improving Somerville Zoning
 
-Somerville YIMBY is broadly in agreement with our city’s current zoning code, but there are some changes we’d like to see.
+Somerville YIMBY generally agrees with our city’s current zoning code, but there are some changes we’d like to see.
 
 ### Neighborhood Residence
 
-Our least-dense district is far better than the “single-family only” rules seen in other cities. But it could be better. For example, it should allow [accessory dwelling units](https://www.mass.gov/service-details/smart-growth-smart-energy-toolkit-modules-accessory-dwelling-units-adu) (“in-law apartments”) and three-family buildings like our iconic triple-deckers with far fewer restrictions.
+Our least-dense district is far better than the “single-family only” rules seen in other cities, but it could be better. For example, it should allow [accessory dwelling units](https://www.mass.gov/service-details/smart-growth-smart-energy-toolkit-modules-accessory-dwelling-units-adu) (“in-law apartments”) and three-family buildings like our iconic triple-deckers with far fewer restrictions.
 
 ### Midrise Districts
 
-We currently require special permits to build apartments in midrise districts, but should allow that use by right. These permits have generally been granted, but there’s not a really good reason to require them at all.
+We currently require special permits to build apartments in midrise districts, but should allow that use by right. The city usually grants these permits when builders request them, but there’s not a really good reason to require them at all.
 
 ### Parking Requirements
 
-Zoning codes in other cities require that new buildings include a lot of off-street parking, which raises costs and encourages people to drive. Somerville’s code is better than most, because it doesn’t require nearly as much, and actually sets a maximum amount of parking for construction near transit. We’d like to see a few tweaks to the parking rules to encourage less parking construction citywide, on the general principle that space dedicated to cars is space we can’t dedicate to people.
+Zoning codes in many other cities require too much off-street parking, which raises costs and encourages people to drive. Somerville’s code is better than most, and even sets a maximum amount of parking for construction near transit, but we'd still like to see a few adjustments to encourage less new parking construction citywide, on the general principle that space we dedicate to cars is space we can’t dedicate to people.
 
 ### Map Changes
 
 There are also a number of places we’d like to see streets or blocks moved to a denser category. In fact, we’d like to see increases in allowable density throughout the city, but in particular:
 
-* **Prospect Hill**: The area between Union Square and Gilman Square is mostly Neighborhood Residence, but its proximity to two new Green Line stations and the high school suggest that it should be Urban Residence.
 * **Davis Square**: Most of the center of Davis Square is zoned for Midrise 3. Something so close to the Red Line deserves Commercial Core or Midrise 6, with surrounding residential neighborhoods zoned for Urban Residence. This is especially important as an equity issue, because the eastern parts of the city have seen far more upzoning, and Davis Square shouldn’t be exempt from development.
-* **Areas surrounding the new Green Line Extension stops**: Many areas near new Green Line stops are currently zoned for Neighborhood Residence and Urban Residence, but really ought to be allowed to grow to 4 to 6 stories high.
+* **Areas surrounding Green Line Extension stops**: Many areas near new Green Line stops are currently zoned for Neighborhood Residence or Urban Residence. In the spirit of the [MBTA Communities Law](https://www.mass.gov/info-details/multi-family-zoning-requirement-for-mbta-communities), we should adjust the map to increase allowable density near transit.
+* **Small Business Overlay**: We should apply the small business overlay to more NR and UR areas along major streets to reduce the difficulty of opening a new business.
