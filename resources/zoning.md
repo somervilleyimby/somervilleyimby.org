@@ -46,7 +46,7 @@ The most common districts in the city are:
 * Commercial Core (CC): Only business uses.
 * High Rise (HR): Tall buildings (7 or more stories).
 
-We also have overlay districts, which modify the base rules for specific reasons. For example, the Flood Zone overlay requires additional flood control measures, and the Small Business Overlay allows corner stores and other light commercial activities in parts of NR and UR. One of our favorites is the Affordable Housing Overlay (AHO), which allows more height and faster permitting for projects where every home is affordable. For more information about the exact definition of affordability and how we achieve it in Somerville, see [“What exactly do we mean by Affordable Housing?”](/resources/affordable-housing/).
+We also have overlay districts, which modify the base rules for specific reasons. For example, the Flood Zone overlay requires additional flood control measures, and the Small Business Overlay allows corner stores and other light commercial activities in parts of NR and UR. One of our favorites is the Affordable Housing Overlay (AHO), which allows more height and faster permitting for projects where every home is subsidized affordable. For more information about the exact definition of affordability and how we achieve it in Somerville, see [“What exactly do we mean by Affordable Housing?”](/resources/affordable-housing/).
 
 You can find the complete zoning ordinance and a map at [somervillezoning.com](https://www.somervillezoning.com/). Don't be intimidated by the length: each zone definition begins with a short description of why we have it and what's allowed in it, so you can get a working knowledge of the rules in just a few pages. In fact, just reading pages 37, 77, and 115 will give you a general understanding of what buildings are allowed in most of the city!
 
@@ -60,7 +60,7 @@ Our least-dense district is far better than the “single-family only” rules s
 
 ### Midrise Districts
 
-We currently require special permits to build apartments in midrise districts, but should allow that use by right. These city usually grants these permits when requested, but there’s not a really good reason to require them at all.
+We currently require special permits to build apartments in midrise districts, but should allow that use by right. The city usually grants these permits when builders request them, but there’s not a really good reason to require them at all.
 
 ### Parking Requirements
 
@@ -71,5 +71,5 @@ Zoning codes in many other cities require too much off-street parking, which rai
 There are also a number of places we’d like to see streets or blocks moved to a denser category. In fact, we’d like to see increases in allowable density throughout the city, but in particular:
 
 * **Davis Square**: Most of the center of Davis Square is zoned for Midrise 3. Something so close to the Red Line deserves Commercial Core or Midrise 6, with surrounding residential neighborhoods zoned for Urban Residence. This is especially important as an equity issue, because the eastern parts of the city have seen far more upzoning, and Davis Square shouldn’t be exempt from development.
-* **Areas surrounding Green Line Extension stops**: Many areas near new Green Line stops are currently zoned for Neighborhood Residence or Urban Residence. In the spirit of the [MBTA Communities Law]([url](https://www.mass.gov/info-details/multi-family-zoning-requirement-for-mbta-communities)), we should adjust the map to increase allowable density near transit.
+* **Areas surrounding Green Line Extension stops**: Many areas near new Green Line stops are currently zoned for Neighborhood Residence or Urban Residence. In the spirit of the [MBTA Communities Law](https://www.mass.gov/info-details/multi-family-zoning-requirement-for-mbta-communities), we should adjust the map to increase allowable density near transit.
 * **Small Business Overlay**: We should apply the small business overlay to more NR and UR areas along major streets to reduce the difficulty of opening a new business.
