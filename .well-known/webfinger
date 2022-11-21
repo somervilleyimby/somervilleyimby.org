@@ -1,0 +1,23 @@
+{
+    "aliases": [
+        "https://better.boston/@somervilleyimby",
+        "https://better.boston/users/somervilleyimby"
+    ],
+    "links": [
+        {
+            "href": "https://better.boston/@somervilleyimby",
+            "rel": "http://webfinger.net/rel/profile-page",
+            "type": "text/html"
+        },
+        {
+            "href": "https://better.boston/users/somervilleyimby",
+            "rel": "self",
+            "type": "application/activity+json"
+        },
+        {
+            "rel": "http://ostatus.org/schema/1.0/subscribe",
+            "template": "https://better.boston/authorize_interaction?uri={uri}"
+        }
+    ],
+    "subject": "acct:somervilleyimby@better.boston"
+}
