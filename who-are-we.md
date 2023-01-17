@@ -7,5 +7,4 @@ permalink: /who-are-we/
 
 * <img src="/img/who-are-we/jeff-byrnes.jpg" alt="Headshot of Jeff Byrnes"> <a href="http://thejeffbyrnes.com/" title="Jeff Byrnes">Jeff Byrnes</a>, Ward 6
 * <img src="/img/who-are-we/laura-evans.jpg" alt="Headshot of Laura Evans"> Laura Evans, Ward 7
-* <img src="/img/who-are-we/stephen-moore.jpg" alt="Headshot of Stephen Moore"> Stephen Moore, Ward 4
 * <img src="/img/who-are-we/aaron-s-weber.jpg" alt="Headshot of Aaron S. Weber"> Aaron S. Weber, Ward 3
