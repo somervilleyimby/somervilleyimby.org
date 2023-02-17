@@ -14,11 +14,11 @@ The Zoning Board of Appeals is an appointed advisory group that focuses on excep
 
 The approximate process of changing part of the zoning ordinance is:
 
-1) Petition or council order is filed
-2) The Land Use committee debates it and votes on it
-3) If approved it goes to the whole City Council
-4) Council as a whole debates & can vote to adopt (two sets of votes are needed)
-5) Proposal goes to the mayor to be signed into law
+1. Petition or council order is filed
+2. The Land Use committee debates it and votes on it
+3. If approved it goes to the whole City Council
+4. Council as a whole debates & can vote to adopt (two sets of votes are needed)
+5. Proposal goes to the mayor to be signed into law
 
 **Somerville-specific zone abbreviations:**
 
@@ -46,6 +46,6 @@ There are also overlay districts, which modify the base in certain ways. The mos
 
  * ADUs in NR: Somerville allows duplexes in Neighborhood Residence to add a third unit, but only if it’s designated affordable (at 110% of AMI).
  * More Than Four Unrelated: In an effort to stop students from noisily living together, Somerville bans more than four unrelated people living together in one residence without a boarding house permit. City Council is hoping to eliminate this rule in 2023. 
- * <a href="https://www.somervillema.gov/departments/programs/somerville-climate-forward">Somerville Climate Forward</a>: Our climate change plan.
-    <a href="https://www.somervision2040.com/">SomerVision 2040</a>: Our long-term comprehensive plan, which includes goals for creating housing and reducing car use.
+ * [Somerville Climate Forward](https://www.somervillema.gov/departments/programs/somerville-climate-forward): Our climate change plan.
+    [SomerVision 2040](https://www.somervision2040.com): Our long-term comprehensive plan, which includes goals for creating housing and reducing car use.
 * Triple-deckers in NR: The 2019 zoning overhaul went back and forth about this, but the city eventually decided not to allow triple-deckers to be built in Neighborhood Residence zones except in certain very specific situations. City Council may consider allowing them in more cases in 2023.
