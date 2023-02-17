@@ -9,6 +9,7 @@ _Last Updated: <time datetime="2023-02-16T15:04:00-0400">Feb 16, 2023</time>_
 Folks use a LOT of jargon and acronyms in housing policy, and a lot of terms are specific to Somerville as well. Here’s a list of some of them. If you have questions or suggestions, please let us know at <a href="mailto:steering@somervilleyimby.org">steering@somervilleyimby.org</a>.
 
 **Somerville Land Use People & Processes**
+
 In Somerville, the Planning Board is an appointed advisory group that helps the city guide planning decisions and special permits. 
 The Zoning Board of Appeals is an appointed advisory group that focuses on exceptions to the usual zoning rules. The Land Use Committee is composed of City Council members who make and/or influence the full City Council’s decisions on major land use decisions including the zoning ordinance.
 
