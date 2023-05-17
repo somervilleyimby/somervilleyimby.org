@@ -10,4 +10,4 @@ Somerville YIMBY — Yes In My Back Yard — is a group of Somerville re
 
 We believe that our cities and towns are great places, and we should welcome people who want to be here by creating abundant homes for new neighbors of all income levels.
 
-For more about us, please see the [Somervilly YIMBY Platform](/platform/).
+For more about us, please see the [Somerville YIMBY Platform](/platform/).
