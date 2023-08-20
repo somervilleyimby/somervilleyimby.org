@@ -56,7 +56,7 @@ copyright: © 2017–2021 Somerville YIMBY
 permalink: pretty
 
 # Build settings
-remote_theme: mmistakes/so-simple-theme@8e63baa
+remote_theme: mmistakes/so-simple-theme@7c881be
 plugins:
   - jekyll-feed
 
