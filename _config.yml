@@ -41,13 +41,18 @@ social:
 footer_links:
   - title: Twitter
     url: https://twitter.com/SomervilleYIMBY
-    icon: fab fa-twitter-square
+    icon: fab fa-brands fa-square-twitter
   - title: Facebook
     url: https://www.facebook.com/SomervilleYIMBY
-    icon: fab fa-facebook-square
+    icon: fab fa-brands fa-square-facebook
   - title: Feed
     url: /feed.xml
     icon: fas fa-rss-square
+
+footer_scripts:
+  - https://code.jquery.com/jquery-3.7.0.min.js
+  - /assets/js/main.min.js
+  - https://kit.fontawesome.com/a693adcc79.js
 
 google_analytics: UA-96931256-1
 
