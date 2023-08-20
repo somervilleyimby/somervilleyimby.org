@@ -47,6 +47,9 @@ footer_links:
   - title: Facebook
     url: https://www.facebook.com/SomervilleYIMBY
     icon: fab fa-brands fa-square-facebook
+  - title: Mastodon
+    url: https://better.boston/@somervilleyimby
+    icon: fab fa-brands fa-mastodon
   - title: Feed
     url: /feed.xml
     icon: fas fa-rss-square
