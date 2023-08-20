@@ -11,6 +11,13 @@ $blue: #1565c0;
 $dark-gray: #333;
 $medium-gray: #999;
 $light-gray: #ddd;
+$somerville-yimby: #6dc9de;
+
+.social-icons {
+  .social-icon {
+    color: $somerville-yimby;
+  }
+}
 
 .google-calendar {
   position: relative;
