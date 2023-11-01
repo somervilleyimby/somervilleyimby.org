@@ -33,7 +33,7 @@ It varies. Inclusionary zoning apartments in Somerville are set on a series of t
 
 The city estimates that a two-bedroom apartment for a very-low-income family would cost about $531 per month, plus up to $375 a month for utilities, parking, and amenities. Or, to look at a specific example: in October 2023, a tier one apartment with three bedrooms in the new tower in Union Square was priced at around $1,500 per month. That’s not exactly cheap, but it’s a lot lower than the $2,550 rent of the least expensive market-rate three-bedroom apartment we could find on Zillow. 
 
-For information about the cost of affordable housing please see <a href="/resources/affordable-housing/>What Exactly Do We Mean by “Affordable Housing</a>?
+For information about the cost of affordable housing please see <a href="/resources/affordable-housing">What Exactly Do We Mean by “Affordable Housing</a>?
 
 ##What do you want the city to do about it?##
 Somerville should monitor our housing production rate very carefully to ensure that our inclusionary zoning requirement is not blocking overall growth in the housing stock. What worked last year may not work next year.
