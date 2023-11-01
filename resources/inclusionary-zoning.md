@@ -7,6 +7,7 @@ _Published: <time datetime="2022-10-01T13:04:00-0400">Nov 1, 2023</time>_
 _Last Updated: <time datetime="2022-10-01T13:04:00-0400">Nov 1, 2023</time>_
 
 ##What is Inclusionary Zoning?##
+
 Inclusionary zoning (IZ) is a rule that requires developers to include below-market-rate affordable housing in new construction. 
 
 It’s popular because it passes the cost of building affordable housing onto developers and the tenants in their new buildings, meaning that cities and their taxpayers don’t have to fund it directly. Another advantage is that new buildings and neighborhoods are economically integrated.
@@ -22,6 +23,7 @@ In some cases, that slowdown of construction is considered a feature. For exampl
 It’s true that our IZ policy has seen some major successes, like the new tower in Union Square with about 100 subsidized apartments — but it’s harder to see the failures, because they’re manifested mostly in buildings that don’t get built. Those missing buildings may be hard to see, but they’re very important. Think of the <a href="https://www.youtube.com/watch?v=EQGQU0T6NBc">cruel game of musical chairs metaphor</a>: if there aren’t enough chairs to go around, someone’s going to go without a seat. Inclusionary zoning helps lower-income people get chairs, and that’s great. But it also risks stopping the creation of enough chairs for everyone, which would only exacerbate the housing crisis.
 
 ##Why can’t developers just take a smaller profit?##
+
 Recent economic research on inclusionary zoning indicates that <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578637">it can push development away from areas where we want it</a>. Why is that?
 
 One key reason is that a bank is far less likely to issue a loan to a project that looks like it might not be profitable. Remember, the profit margins on a construction project are estimates, and if a bank thinks the estimate doesn’t have enough of a buffer for contingencies, they won’t lend. If they don’t lend, nothing gets built.
@@ -29,6 +31,7 @@ One key reason is that a bank is far less likely to issue a loan to a project th
 In addition, any investor or lender is looking for a specific balance of risk and return. If they can find a better return or a lower risk, they’ll take it. If a developer thinks it’s more profitable to build in the sprawled-out suburbs of Atlanta, that’s where new buildings will get built. If an investor or lender thinks it’s more profitable to back a company that builds commercial real estate, or roads, or vacuum cleaners, that’s where the money will go. Basically, if we want housing built and don’t want to pay for it with tax dollars, someone’s going to have to make money building it. And not just a little money: they need to be able to make more than they would doing something else, somewhere else.  
 
 ##Just how affordable is this, anyway?##
+
 It varies. Inclusionary zoning apartments in Somerville are set on a series of tiers, which are affordable to people making different percentages of the Area Median Income (AMI). Some will be affordable to people making less than 50% of the AMI, others will be offered to people making up to 110%. Tier 1 is for people with very low incomes, tier 2 for low income and tier 3 for moderate income. The city has rules about which apartments get which tiers, and requires most of them to be set aside for low and very-low income tenants.
 
 The city estimates that a two-bedroom apartment for a very-low-income family would cost about $531 per month, plus up to $375 a month for utilities, parking, and amenities. Or, to look at a specific example: in October 2023, a tier one apartment with three bedrooms in the new tower in Union Square was priced at around $1,500 per month. That’s not exactly cheap, but it’s a lot lower than the $2,550 rent of the least expensive market-rate three-bedroom apartment we could find on Zillow. 
@@ -36,6 +39,7 @@ The city estimates that a two-bedroom apartment for a very-low-income family wou
 For information about the cost of affordable housing please see <a href="/resources/affordable-housing">What Exactly Do We Mean by “Affordable Housing</a>?
 
 ##What do you want the city to do about it?##
+
 Somerville should monitor our housing production rate very carefully to ensure that our inclusionary zoning requirement is not blocking overall growth in the housing stock. What worked last year may not work next year.
 
 In particular, it’s worth noting that San Francisco has <a href="https://www.cbsnews.com/sanfrancisco/news/sf-breed-signs-housing-stimulus-fee-reform-plan-housing-crisis/">recently found it necessary to reduce fees and inclusionary zoning requirements</a> to get anything built at all. Our market isn’t as broken as San Francisco’s, but we should seriously consider revisiting our requirements if housing construction slows or stops.
