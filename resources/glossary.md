@@ -16,9 +16,9 @@ The Zoning Board of Appeals is an appointed advisory group that focuses on excep
 The approximate process of changing part of the zoning ordinance is:
 
 1. Petition or council order is filed
-2. The Land Use committee debates it and make a recommendation on it (positive, negative, or neutral)
-3. Land Use Committee will discuss that recommendation and make their own recommendation to the council as a whole
-4. City Council as a whole debates & can vote to adopt (two sets of votes are needed)
+2. The Planning Board debates it and make a recommendation on it (positive, negative, or neutral)
+3. The Land Use Committee will discuss that recommendation and make their own recommendation to the council as a whole
+4. City Council as a whole debates & can vote to adopt (two sets of votes are generally needed)
 5. Proposal goes to the mayor to be signed into law
 
 **Somerville-specific zone abbreviations:**
