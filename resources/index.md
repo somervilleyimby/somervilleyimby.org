@@ -10,8 +10,21 @@ In an effort to help folks better understand the landscape of housing, housing p
 
 Please check back regularly, or [subscribe to our newsletter](#mailing-list)!
 
+## Explainers on Housing in Somerville
+
 * [What Exactly Do We Mean by “Affordable Housing?”](/resources/affordable-housing/)
 * [What is Zoning and Why Does It Matter?](/resources/zoning/)
 * [What is Inclusionary Zoning](/resources/inclusionary-zoning/)
 * [Understanding the Rent Control Debate](/resources/rent-control/)
 * [Glossary of Somerville Zoning and Planning Jargon](/resources/glossary)
+
+## Videos and References from Elsewhere
+Our friends at Abundant Housing Massachusetts (AHMA) have a <a href="https://www.youtube.com/@abundanthousingma4971">wonderful set of videos about</a> about housing, including [this one](https://www.youtube.com/watch?v=kWUjANZIZ5U)) about the intersection of climate and housing policy: <br />
+[![Watch the video](https://img.youtube.com/vi/kWUjANZIZ5U/default.jpg)](https://www.youtube.com/watch?v=kWUjANZIZ5U)
+
+* Also from AHMA, "[Meet Michael and Iris](https://www.youtube.com/watch?v=Eazbs2p6-hIurl)," introducing the concept of abundant housing and why it matters to people you might know.
+* From the Sightline Institute: [Cruel Musical Chairs (or Why is the Rent So High?)](https://www.youtube.com/watch?v=EQGQU0T6NBc) uses a twisted game of musical chairs to illustrate why housing abundance matters.
+* From the Urban Institute: [Zoning Matters: How Land Use Policies Shape Our Lives](https://www.youtube.com/watch?v=aLMsI92crZw).
+
+## Other Research
+* Members of this and other pro-housing groups have assembled a [YIMBY References](https://www.zotero.org/groups/4878123/yimby_references) library in Zotero, the academic citation system. Feel free to send suggestions to <a href="mailto:steering@somervilleyimby.org">steering@somervilleyimby.org</a> if you spot anything we've missed!
