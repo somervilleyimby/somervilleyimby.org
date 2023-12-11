@@ -19,7 +19,7 @@ Please check back regularly, or [subscribe to our newsletter](#mailing-list)!
 * [Glossary of Somerville Zoning and Planning Jargon](/resources/glossary)
 
 ## Videos and References from Elsewhere
-Our friends at Abundant Housing Massachusetts (AHMA) have a <a href="https://www.youtube.com/@abundanthousingma4971">wonderful set of videos about</a> about housing, including [this one](https://www.youtube.com/watch?v=kWUjANZIZ5U)) about the intersection of climate and housing policy: <br />
+Our friends at Abundant Housing Massachusetts (AHMA) have a <a href="https://www.youtube.com/@abundanthousingma4971">wonderful set of videos about</a> about housing, including [Housing Policy is Climate Policy](https://www.youtube.com/watch?v=kWUjANZIZ5U), about the intersection of climate and housing policy: <br />
 [![Watch the video](https://img.youtube.com/vi/kWUjANZIZ5U/default.jpg)](https://www.youtube.com/watch?v=kWUjANZIZ5U)
 
 * Also from AHMA, "[Meet Michael and Iris](https://www.youtube.com/watch?v=Eazbs2p6-hIurl)," introducing the concept of abundant housing and why it matters to people you might know.
