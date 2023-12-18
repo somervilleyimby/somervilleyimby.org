@@ -19,9 +19,7 @@ Please check back regularly, or [subscribe to our newsletter](#mailing-list)!
 * [Glossary of Somerville Zoning and Planning Jargon](/resources/glossary)
 
 ## Videos and References from Elsewhere
-Our friends at Abundant Housing Massachusetts (AHMA) have a <a href="https://www.youtube.com/@abundanthousingma4971">wonderful set of videos about</a> about housing, including [Housing Policy is Climate Policy](https://www.youtube.com/watch?v=kWUjANZIZ5U), about the intersection of climate and housing policy: <br />
-[![Watch the video](https://img.youtube.com/vi/kWUjANZIZ5U/default.jpg)](https://www.youtube.com/watch?v=kWUjANZIZ5U)
-
+* Our friends at Abundant Housing Massachusetts (AHMA) have a <a href="https://www.youtube.com/@abundanthousingma4971">wonderful set of videos about</a> about housing, including [Housing Policy is Climate Policy](https://www.youtube.com/watch?v=kWUjANZIZ5U), about the intersection of climate and housing policy.
 * Also from AHMA, "[Meet Michael and Iris](https://www.youtube.com/watch?v=Eazbs2p6-hIurl)," introducing the concept of abundant housing and why it matters to people you might know.
 * From the Sightline Institute: [Cruel Musical Chairs (or Why is the Rent So High?)](https://www.youtube.com/watch?v=EQGQU0T6NBc) uses a twisted game of musical chairs to illustrate why housing abundance matters.
 * From the Urban Institute: [Zoning Matters: How Land Use Policies Shape Our Lives](https://www.youtube.com/watch?v=aLMsI92crZw).
