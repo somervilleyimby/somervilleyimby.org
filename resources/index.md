@@ -23,6 +23,7 @@ Please check back regularly, or [subscribe to our newsletter](#mailing-list)!
 * Also from AHMA, "[Meet Michael and Iris](https://www.youtube.com/watch?v=Eazbs2p6-hIurl)," introducing the concept of abundant housing and why it matters to people you might know.
 * From the Sightline Institute: [Cruel Musical Chairs (or Why is the Rent So High?)](https://www.youtube.com/watch?v=EQGQU0T6NBc) uses a twisted game of musical chairs to illustrate why housing abundance matters.
 * From the Urban Institute: [Zoning Matters: How Land Use Policies Shape Our Lives](https://www.youtube.com/watch?v=aLMsI92crZw).
+* UC Berkeley's Terner Center for Housing Innovation has an awesome simulation called [Demystifying Development Math](https://www.ternercenter.app/demystifying-development-math) that helps illustrate how housing construction is financed (or not).  
 
 ## Other Research
 * Members of this and other pro-housing groups have assembled a [YIMBY References](https://www.zotero.org/groups/4878123/yimby_references) library in Zotero, the academic citation system. Feel free to send suggestions to <a href="mailto:steering@somervilleyimby.org">steering@somervilleyimby.org</a> if you spot anything we've missed!
