@@ -4,7 +4,7 @@ title: What is Inclusionary Zoning?
 permalink: /resources/inclusionary-zoning/
 ---
 _Published: <time datetime="2022-10-01T13:04:00-0400">Nov 1, 2023</time>_  
-_Last Updated: <time datetime="2022-10-01T13:04:00-0400">Nov 1, 2023</time>_
+_Last Updated: <time datetime="2024-01-13T13:04:00-0400">Jan 13, 2024</time>_
 
 Inclusionary zoning (IZ) is a rule that requires developers to include below-market-rate affordable housing in new construction. 
 
@@ -32,14 +32,14 @@ In addition, any investor or lender is looking for a specific balance of risk an
 
 ## Just how affordable is this, anyway?
 
-It varies. Inclusionary zoning apartments in Somerville are set on a series of tiers, which are affordable to people making different percentages of the Area Median Income (AMI). Some will be affordable to people making less than 50% of the AMI, others will be offered to people making up to 110%. Tier 1 is for people with very low incomes, tier 2 for low income and tier 3 for moderate income. The city has rules about which apartments get which tiers, and requires most of them to be set aside for low and very-low income tenants.
+It varies. Inclusionary zoning apartments in Somerville are set on a series of tiers, which are affordable to people making different percentages of the Area Median Income (AMI). Some will be affordable to people making less than 50% of the AMI, others will be offered to people making up to 110%. Tier 1 is for people with very low incomes, tier 2 for low income and tier 3 for moderate income. The city has rules about which apartments get which tiers, and requires most of them to be set aside for tiers 1 and 2. 
 
-The city estimates that a two-bedroom apartment for a very-low-income family would cost about $531 per month, plus up to $375 a month for utilities, parking, and amenities. Or, to look at a specific example: in October 2023, a tier one apartment with three bedrooms in the new tower in Union Square was priced at around $1,500 per month. That’s not exactly cheap, but it’s a lot lower than the $2,550 rent of the least expensive market-rate three-bedroom apartment we could find on Zillow. 
+For specifics, <a href="https://s3.amazonaws.com/somervillema-live/s3fs-public/union-346-ph2-ad-english.pdf">check out this table of prices from 346 Somerville Avenue, in Union Square</a>, which includes a 3-bedroom apartment for a very low income family at $883 a month and one for a median-income family priced at $2,898.
 
-For information about the cost of affordable housing please see <a href="/resources/affordable-housing">What Exactly Do We Mean by “Affordable Housing</a>?
+For information about the cost of affordable housing and an explanation of AMI, please see <a href="/resources/affordable-housing">What Exactly Do We Mean by “Affordable Housing</a>?
 
 ## What do you want the city to do about it?
 
 Somerville should monitor our housing production rate very carefully to ensure that our inclusionary zoning requirement is not blocking overall growth in the housing stock. What worked last year may not work next year.
 
-In particular, it’s worth noting that San Francisco has <a href="https://www.cbsnews.com/sanfrancisco/news/sf-breed-signs-housing-stimulus-fee-reform-plan-housing-crisis/">recently found it necessary to reduce fees and inclusionary zoning requirements</a> to get anything built at all. We should seriously consider revisiting our requirements if housing construction slows or stops.
+In particular, it’s worth noting that San Francisco has <a href="https://www.cbsnews.com/sanfrancisco/news/sf-breed-signs-housing-stimulus-fee-reform-plan-housing-crisis/">recently found it necessary to reduce fees and inclusionary zoning requirements</a> to get anything built at all. We should seriously consider revisiting our requirements or offering incentives if housing construction slows or stops.
