@@ -4,7 +4,7 @@ title: What Exactly Do We Mean by “Affordable Housing?”
 permalink: /resources/affordable-housing/
 ---
 _Published: <time datetime="2022-03-31T15:04:00-0400">Mar 31, 2022</time>_  
-_Last Updated: <time datetime="2022-07-13T15:54:00-0400">Jul 13, 2022</time>_
+_Last Updated: <time datetime="2024-01-13T15:54:00-0400">Jan 13, 2024</time>_
 
 Everyone’s heard about the importance of affordable housing. But there’s a lot of debate about what affordability actually means for a community. Let’s take a deeper look.
 
@@ -12,7 +12,7 @@ Everyone’s heard about the importance of affordable housing. But there’s a l
 
 In everyday use, the word “affordable” is simple but vague: it means that something is reasonably priced. But for housing, we need to get way more specific. Conveniently, there’s a federal definition: a home is affordable to you if it costs no more than 30% of your household income to live in it.
 
-Spending more than that means you’re “rent burdened,” and there are a lot of rent burdened people out there right now. In fact, the US is so short on homes that in many neighborhoods, a household making the median income can’t afford the median apartment. For reference, the Boston area median income (AMI) is $96,650 for two people, meaning the median two-person household could reasonably afford $2,416 a month in rent.
+Spending more than that means you’re “rent burdened,” and there are a lot of rent burdened people out there right now. In fact, the US is so short on homes that in many neighborhoods, a household making the median income can’t afford the median apartment. For reference, in 2022, the Boston area median income (AMI) was $96,650 for two people, meaning the median two-person household could reasonably afford $2,416 a month in rent.
 
 If that figure sounds high to you, it’s worth noting that the “Area” in “Area Median Income” is pretty big. For the Boston region, it runs from roughly Providence to Seabrook, and includes cities and towns with an enormous range of incomes and housing prices. Defining affordability by AMI is nowhere near perfect, but it gives us a rough estimate of what we think the midpoint of a regional housing market ought to be: the typical household should be able to rent the typical apartment, or pay a mortgage on a typical home/condo, with about a third of their income.
 
@@ -27,11 +27,11 @@ That’s where subsidized affordable housing, the kind of housing planners and a
 
 ## And Now We Ask “For Whom?”
 
-Even for a nonprofit or a government agency, it’s expensive to build and run an apartment building, and nearly every subsidized apartment still has to charge rent. How much varies widely. Public housing may be open to people with little or no income, while residents of LIHTC apartments typically make a mix between 30% to 80% of AMI, and the inclusionary units in market-rate buildings tend to be affordable to families making 60% to 80% of AMI. That means that rent in an “affordable” apartment might range from $887 to $2,131 a month.
+Even for a nonprofit or a government agency, it’s expensive to build and run an apartment building, and nearly every subsidized apartment still has to charge rent. How much varies widely. Public housing may be open to people with little or no income, while residents of LIHTC apartments typically make a mix between 30% to 80% of AMI, and the inclusionary units in market-rate buildings tend to be affordable to families making anywhere from 50% to 110% of AMI. That means that rent in an “affordable” apartment might range from about $800 to nearly $3,000 a month. <a href="https://s3.amazonaws.com/somervillema-live/s3fs-public/union-346-ph2-ad-english.pdf">Check out this table of prices from the building at 346 Somerville Avenue, in Union Square</a> to see some specific examples, including one 3-bedroom apartment for $883 a month and one priced at $2,898.
 
-The idea that an apartment costing more than $2,000 a month can be called “affordable” strikes a lot of people as absolutely bizarre. Stranger still, we sometimes see subsidized affordable apartments that are affordable for the region, but expensive for the neighborhood. That’s a major concern about places like Assembly Square and Suffolk Downs, where subsidized apartments might charge rents that are still too high for a lot of families nearby in East Somerville or East Boston.
+The idea that an apartment renting for $2,898 a month can be called “affordable” strikes a lot of people as absolutely bizarre, but market prices for apartments like that are often far, far higher. Nonetheless, it's alarming to see subsidized affordable apartments that are affordable for the region, but expensive for the neighborhood. That’s a major concern about places like Assembly Square and Suffolk Downs, where subsidized apartments might charge rents that are still too high for a lot of families nearby in East Somerville or East Boston.
 
-That’s why you hear the question “Affordable for whom?” This is sometimes a serious question from people who want to know why subsidies aren’t deep enough, and sometimes a disingenuous question from people looking for an excuse to block new housing.
+That’s why you hear the question “affordable for whom?” This is sometimes a serious question from people who want to know why subsidies aren’t deep enough, and sometimes a disingenuous question from people looking for an excuse to block new housing.
 
 ## What Can We Do About It?
 
