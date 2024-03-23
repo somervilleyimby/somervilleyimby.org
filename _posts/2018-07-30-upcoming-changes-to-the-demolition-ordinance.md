@@ -4,6 +4,7 @@ title: Upcoming changes to the Demolition Ordinance
 date: 2018-07-30 15:36:00 -0400
 categories: letter
 ---
+
 The following is a letter we emailed to the Somerville Board of Alderman on <time datetime="2018-07-30T15:36-04:00">July 30, 2018</time>, regarding proposed Demolition Ordinance changes.
 
 > To the Board of Aldermen:

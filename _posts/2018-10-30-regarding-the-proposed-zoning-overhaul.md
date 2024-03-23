@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  Regarding the Proposed Zoning Overhaul
-date:   2018-10-30 15:07:00 -0400
+title: Regarding the Proposed Zoning Overhaul
+date: 2018-10-30 15:07:00 -0400
 categories: letter
 ---
+
 The following is a letter we emailed to the Somerville Board of Alderman on <time datetime="2018-10-30T15:07-04:00">Oct 30, 2018</time>, regarding the reform of the City’s zoning regulations.
 
 > To the Board of Aldermen:
@@ -18,10 +19,10 @@ The following is a letter we emailed to the Somerville Board of Alderman on <tim
 >
 > **Accessory Dwelling Units:** The rules surrounding ADUs are unnecessarily complex and would be almost certain to stymie the creation of these necessary middle-income homes.
 >
-> * The special permit rule: Moving the special permit requirement from the construction phase to the occupancy-permit phase increases, rather than decreases, the uncertainty in the process.
-> * The owner-occupant landlord rule: Advocates for the owner-occupancy rule claim that it promotes individual home ownership, but it actually tilts the benefits of ADU construction to people with enough wealth to own multifamily buildings. The rule also creates a complex enforcement and monitoring burden for the city, one which could become very expensive to administer.
-> * Noise and nuisance concerns: Proponents of the owner-occupant landlord rule also cite noise and nuisance problems they claim are allayed by onsite landlord supervision. However, an onsite landlord is no guarantee of tenant behavior. If the city wishes to address noise and nuisance issues, it should use its existing powers to address those issues.
-> * Banning subdivision and sale: If the city has a stated goal of promoting homeownership and owner-occupancy, why would we prohibit making an ADU a home that someone could own?
+> - The special permit rule: Moving the special permit requirement from the construction phase to the occupancy-permit phase increases, rather than decreases, the uncertainty in the process.
+> - The owner-occupant landlord rule: Advocates for the owner-occupancy rule claim that it promotes individual home ownership, but it actually tilts the benefits of ADU construction to people with enough wealth to own multifamily buildings. The rule also creates a complex enforcement and monitoring burden for the city, one which could become very expensive to administer.
+> - Noise and nuisance concerns: Proponents of the owner-occupant landlord rule also cite noise and nuisance problems they claim are allayed by onsite landlord supervision. However, an onsite landlord is no guarantee of tenant behavior. If the city wishes to address noise and nuisance issues, it should use its existing powers to address those issues.
+> - Banning subdivision and sale: If the city has a stated goal of promoting homeownership and owner-occupancy, why would we prohibit making an ADU a home that someone could own?
 >
 > **Number of Related Residents:** The rule is counterproductive in numerous ways. It ignores the complexity of contemporary household formation; it inserts the municipal government into personal relationships in inappropriate ways; it blocks the creation of moderately priced alternative housing; and it creates opportunities for unscrupulous landlords to exploit tenants who fear being evicted if they report safety violations to the city.
 >

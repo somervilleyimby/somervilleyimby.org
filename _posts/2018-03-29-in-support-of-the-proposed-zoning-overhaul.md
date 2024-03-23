@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  In support of the Proposed Zoning Overhaul
-date:   2018-03-29 08:43:00 -0400
+title: In support of the Proposed Zoning Overhaul
+date: 2018-03-29 08:43:00 -0400
 categories: letter
 ---
+
 The following is a letter we emailed to the Somerville Board of Alderman on <time datetime="2018-03-29T08:43-04:00">May 24, 2018</time>, regarding the reform of the City’s zoning regulations.
 
 > To the City of Somerville and the Board of Aldermen:

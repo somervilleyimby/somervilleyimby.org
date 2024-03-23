@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  Regarding the FRIT Waiver — Somerville YIMBY
-date:   2017-05-16 21:22 -0400
+title: Regarding the FRIT Waiver — Somerville YIMBY
+date: 2017-05-16 21:22 -0400
 categories: letter
 ---
+
 The following is a letter we emailed to the Somerville Planning Board the evening of <time datetime="2017-05-16T21:22-04:00">May 16, 2017</time>, regarding Federal Realty’s request for a waiver on their development in Assembly Row.
 
 > To the Somerville Planning Board:

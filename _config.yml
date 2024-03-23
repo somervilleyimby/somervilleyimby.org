@@ -55,13 +55,13 @@ footer_links:
     icon: fas fa-rss-square
 
 footer_scripts:
-  - https://code.jquery.com/jquery-3.7.0.min.js
+  - https://code.jquery.com/jquery-3.7.1.min.js
   - /assets/js/main.min.js
   - https://kit.fontawesome.com/a693adcc79.js
 
 google_analytics: UA-96931256-1
 
-copyright: © 2017–2023 Somerville YIMBY
+copyright: © 2017–2024 Somerville YIMBY
 
 permalink: pretty
 

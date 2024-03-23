@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Re: St. James Project; Special Permit"
-date:   2018-08-07 16:58:00 -0400
+title: "Re: St. James Project; Special Permit"
+date: 2018-08-07 16:58:00 -0400
 categories: letter
 ---
+
 The following is a letter we emailed to the Cambridge Planning Board on <time datetime="2018-08-07T16:58-04:00">August 7, 2018</time>, regarding a special permit issued to the St. James Place redevelopment. We sent this letter because housing is a regional issue, and this project, especially, is in close proximity to Somerville.
 
 > Dear Chair, Vice Chair and Members of the Planning Board:

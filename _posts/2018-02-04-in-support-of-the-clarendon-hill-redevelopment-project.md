@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  In support of the Clarendon Hill Redevelopment Project
-date:   2018-02-04 10:53:00 -0500
+title: In support of the Clarendon Hill Redevelopment Project
+date: 2018-02-04 10:53:00 -0500
 categories: letter
 ---
+
 The following is a letter we emailed to the Somerville Board of Alderman on <time datetime="2018-02-04T10:53-05:00">February 04, 2018</time>, regarding the reform of the effort to rebuild [Clarendon Hill](http://clarendonhill.org).
 
 > Esteemed members of the Board of Aldermen:

@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Re: Union Square - EEA#15889"
-date:   2018-08-15 15:18:00 -0400
+title: "Re: Union Square - EEA#15889"
+date: 2018-08-15 15:18:00 -0400
 categories: letter
 ---
+
 The following is a letter we emailed to MEPA on <time datetime="2018-08-15T15:18-04:00">August 15, 2018</time>, regarding the “Phase 1 waiver” (it’s not a waiver) for the D2 block of US2’s Union Square redevelopment.
 
 > Via e-mail to: alexander.strysky@state.ma.us<br>
@@ -25,13 +26,13 @@ The following is a letter we emailed to MEPA on <time datetime="2018-08-15T15:18
 >
 > In addition, it provides clear environmental benefits:
 >
-> * Construction begins with site remediation, alleviating concerns about ground contaminants.
-> * The project is tightly linked with upgraded sewer and storm systems, which will reduce water contamination and improve climate resiliency
-> * The project is critical to the completion of the Union Square MBTA station, which will enable Somerville to reduce car travel and increase sustainable mobility.
-> * Construction includes separated bike lanes and bike parking, again enhancing sustainable mobility for the community.
-> * The buildings on the site will be LEED Gold certified, with all the attendant environmental benefits that certification implies.
-> * Increased commercial and residential density near transit hubs like Union Square reduces auto trips and carbon emissions and is broadly in keeping with the sustainability goals of the city and the state.
-> * This long-awaited development is an important part of both environmental and community goals for the city of Somerville. Please approve its MEPA Phase 1 Waiver and help it reach completion on time.
+> - Construction begins with site remediation, alleviating concerns about ground contaminants.
+> - The project is tightly linked with upgraded sewer and storm systems, which will reduce water contamination and improve climate resiliency
+> - The project is critical to the completion of the Union Square MBTA station, which will enable Somerville to reduce car travel and increase sustainable mobility.
+> - Construction includes separated bike lanes and bike parking, again enhancing sustainable mobility for the community.
+> - The buildings on the site will be LEED Gold certified, with all the attendant environmental benefits that certification implies.
+> - Increased commercial and residential density near transit hubs like Union Square reduces auto trips and carbon emissions and is broadly in keeping with the sustainability goals of the city and the state.
+> - This long-awaited development is an important part of both environmental and community goals for the city of Somerville. Please approve its MEPA Phase 1 Waiver and help it reach completion on time.
 >
 > Sincerely,
 >

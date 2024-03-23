@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  Statement Endorsing the HOMES Act
-date:   2019-02-20 15:07:00 -0400
+title: Statement Endorsing the HOMES Act
+date: 2019-02-20 15:07:00 -0400
 categories: letter
 ---
+
 The following is a letter we emailed to the MA State House of Representatives on <time datetime="2019-02-20T15:07-04:00">Feb. 20, 2019</time>, regarding a proposed bill to provide protections to tenants who entered into eviction proceedings.
 
 > Statement in support of the HOMES Act
