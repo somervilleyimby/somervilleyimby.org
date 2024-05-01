@@ -4,7 +4,7 @@ title: What Exactly Do We Mean by “Affordable Housing?”
 permalink: /resources/affordable-housing/
 ---
 _Published: <time datetime="2022-03-31T15:04:00-0400">Mar 31, 2022</time>_  
-_Last Updated: <time datetime="2024-01-13T15:54:00-0400">Jan 13, 2024</time>_
+_Last Updated: <time datetime="2024-05-01T15:54:00-0400">May 1, 2024</time>_
 
 Everyone’s heard about the importance of affordable housing. But there’s a lot of debate about what affordability actually means for a community. Let’s take a deeper look.
 
@@ -41,4 +41,4 @@ That’s where YIMBY comes in, and in particular our goal of building alliances 
 * More tenant protections: Renters suffer the most from high housing prices, and need protection against unscrupulous landlords and the whims of the marketplace.
 * More subsidies: Even in a healthy market, people of limited means will need help to stay housed. Federal and state funding doesn’t cover anywhere near the full extent of need, and the wait list for housing assistance is years long, so it's important to expand housing assistance programs.
 
-To learn more about this three-pronged approach to housing abundance and affordability, we recommend the book [_The Affordable City_](https://islandpress.org/books/affordable-city). For a greater understanding of housing policy generally, we recommend [_Fixer Upper_](https://www.indiebound.org/book/9780815739289).
+To learn more about this three-pronged approach to housing abundance and affordability, we recommend the book [_The Affordable City_](https://islandpress.org/books/affordable-city). For a greater understanding of housing policy generally, we recommend [_Fixer Upper_](https://www.harvard.com/book/fixer-upper).
