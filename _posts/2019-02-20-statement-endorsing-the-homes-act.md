@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Statement Endorsing the HOMES Act
-date: 2019-02-20 15:07:00 -0400
+date: 2019-02-20 15:07:00 -0500
 categories: letter
 ---
 
