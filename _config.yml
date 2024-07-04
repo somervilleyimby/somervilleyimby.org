@@ -59,8 +59,6 @@ footer_scripts:
   - /assets/js/main.min.js
   - https://kit.fontawesome.com/a693adcc79.js
 
-google_analytics: UA-96931256-1
-
 copyright: © 2017–2024 Somerville YIMBY
 
 permalink: pretty
