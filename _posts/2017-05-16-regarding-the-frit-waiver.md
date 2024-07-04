@@ -24,4 +24,4 @@ The following is a letter we emailed to the Somerville Planning Board the evenin
 > We welcome conversation on this, and look forward to engaging with Federal Realty, our Aldermen, and our fellow citizens on this topic.
 >
 > Signed,
-> Jeff & Leah Byrnes, Luke Edson, Alex and Christina Epstein, Brendan Kearney, Stephen Moore, Aaron Weber, and the members of Somerville YIMBY
+> Jeff & Leah Byrnes, Luke Edson, Alex and Christina Epstein, Brendan Kearney, Stephen Moore, Aaron Weber, and the members of Somerville YIMBY
