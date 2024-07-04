@@ -67,6 +67,7 @@ permalink: pretty
 jekyll-archives:
   enabled:
     - year
+    - categories
   layout: archive
   permalinks:
     year: /:year/
