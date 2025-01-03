@@ -36,17 +36,17 @@ facebook:
 
 social:
   links:
-    - https://twitter.com/SomervilleYIMBY
-    - https://www.facebook.com/SomervilleYIMBY
-    - https://github.com/somervilleyimby
-    - https://better.boston/@somervilleyimby
     - https://bsky.app/profile/somervilleyimby.org
+    - https://www.facebook.com/SomervilleYIMBY
+    - https://better.boston/@somervilleyimby
     - https://www.threads.net/@somervilleyimby
+    - https://www.instagram.com/somervilleyimby
+    - https://github.com/somervilleyimby
 
 footer_links:
-  - title: Twitter
-    url: https://twitter.com/SomervilleYIMBY
-    icon: fab fa-brands fa-square-twitter
+  - title: Bluesky
+    url: https://bsky.app/profile/SomervilleYIMBY.org
+    icon: fab fa-brands fa-square-bluesky
   - title: Facebook
     url: https://www.facebook.com/SomervilleYIMBY
     icon: fab fa-brands fa-square-facebook
