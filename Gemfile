@@ -28,3 +28,9 @@ gem 'rubocop'
 
 # Need to add this explicitly on Ruby >= 3.0.0
 gem 'webrick', '~> 1.7'
+
+# Need to add this explicitly on Ruby >= 3.4.0
+gem 'csv'
+
+# Need to add this explicitly on Ruby >= 3.5.0
+gem 'logger'
