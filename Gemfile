@@ -26,6 +26,8 @@ gem 'wdm', '~> 0.1.1', platforms: %i[mingw x64_mingw mswin]
 
 gem 'rubocop'
 
+gem 'faraday-retry'
+
 # Need to add this explicitly on Ruby >= 3.0.0
 gem 'webrick', '~> 1.7'
 
