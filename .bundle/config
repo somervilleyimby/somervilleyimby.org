@@ -1,0 +1,4 @@
+---
+# Modern Bundle prefers this set in the config
+# rather than the --path flag
+BUNDLE_PATH: "vendor/bundle"
