@@ -8,7 +8,9 @@ _Last Updated: <time datetime="2023-11-02T15:12:15-0400">Nov 2, 2023</time>_
 
 In an effort to help folks better understand the landscape of housing, housing production, and all the many complicated elements that come to bear, we’ve begun writing and gathering some resources here.
 
-Please check back regularly, or [subscribe to our newsletter](#mailing-list)!
+[comment]: <> (A link to Beehiiv is more reliable than linking to the embed below)
+[comment]: <> (because the newsletter embed may be blocked by uBlock Origin)
+Please check back regularly, or [subscribe to our newsletter](https://somervilleyimby.beehiiv.com/subscribe)! You can also check out our [past newsletters](https://somervilleyimby.beehiiv.com/).
 
 ## Explainers on Housing in Somerville
 
