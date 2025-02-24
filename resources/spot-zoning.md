@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: page
 title: How is spot zoning defined in Massachusetts?
-date: 2025-02-24 12:31:00 -0500
+permalink: /resources/spot-zoning/
 ---
+_Published: <time datetime="2025-02-24T12:44:00-0500">Feb 24, 2025</time>_  
+_Last Updated: <time datetime="2025-02-24T12:44:00-0500">Feb 24, 2025</time>_
 
 > This is a repost of our [member Ben Orenstein’s Substack “How is spot zoning defined in Massachusetts?”](https://municipalfreedom.substack.com/p/how-is-spot-zoning-defined-in-massachusetts), published <time datetime="2025-02-17">Feb. 17, 2025</time>, copied here with his permission. Thanks Ben!
 
