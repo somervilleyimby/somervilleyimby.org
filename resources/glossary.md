@@ -43,6 +43,7 @@ There are also overlay districts, which modify the base in certain ways. The mos
  * MBTA-C: MBTA Communities Law, requiring cities served by the MBTA to zone for housing growth. A complex and controversial law even in Somerville. Also known as Section 3A. <a href="https://apps.bostonglobe.com/2023/10/special-projects/spotlight-boston-housing/zoning-mandate-map/">The Boston Globe has a good explainer</a> on what that means for different cities near Boston.
  * “Priced at X% AMI” or “Affordable at 80%”: Inclusionary affordable housing units are rented at a cost that’s roughly 30% of the targeted household income. An apartment “priced at 80%” might be for a family of three making about $80,000 per year, and rent at 30% of that income, or $2,000 a month. For more information, see "<a href="/resources/affordable-housing/">What Exactly Do We Mean by Affordable Housing</a>?
  * ZBA: Zoning Board of Appeals. An appointed board in most cities that allows certain deviations from zoning rules for reasons including economic hardship.
+ * Zoned capacity: The maximum amount of housing that could be built in a given area under current rules, regardless of what is currently there. For example, "this neighborhood has 1,000 homes in it, and a zoned capacity for 1,500." The MBTA Communities Law requires cities to increase their zoned capacity. 
 
 **Somerville-specific issues that get talked about a lot**
 
