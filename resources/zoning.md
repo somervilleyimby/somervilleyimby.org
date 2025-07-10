@@ -56,7 +56,7 @@ Somerville YIMBY generally agrees with our city’s current zoning code, but the
 
 ### Neighborhood Residence
 
-Our least-dense district is far better than the “single-family only” rules seen in other cities, but it could be better. For example, it should allow [accessory dwelling units](https://www.mass.gov/service-details/smart-growth-smart-energy-toolkit-modules-accessory-dwelling-units-adu) (“in-law apartments”) and three-family buildings like our iconic triple-deckers with far fewer restrictions.
+Our least-dense district is far better than the “single-family only” rules seen in other cities, especially since we re-legalized triple deckers in late 2024. However, it could still be improved. For example, it should allow [accessory dwelling units](https://www.mass.gov/service-details/smart-growth-smart-energy-toolkit-modules-accessory-dwelling-units-adu) (“in-law apartments”) with far fewer restrictions. We'd also like to see a lot of it switched from Neighborhood Residence to Urban Residence, which would allow multiplexes, row houses, and apartment houses.
 
 ### Midrise Districts
 
@@ -64,12 +64,12 @@ We currently require special permits to build apartments in midrise districts, b
 
 ### Parking Requirements
 
-Zoning codes in many other cities require too much off-street parking, which raises costs and encourages people to drive. Somerville’s code is better than most, and even sets a maximum amount of parking for construction near transit, but we'd still like to see a few adjustments to encourage less new parking construction citywide, on the general principle that space we dedicate to cars is space we can’t dedicate to people.
+Zoning codes in many cities requires specific amounts of off-street parking for new construction. That rule raises costs, allocates precious space to cars rather than people, and nudges people toward driving as their default mode of transportation. In December 2024, we were thrilled to see Somerville remove minimum parking requirements from the zoning ordinance. 
 
 ### Map Changes
 
 There are also a number of places we’d like to see streets or blocks moved to a denser category. In fact, we’d like to see increases in allowable density throughout the city, but in particular:
 
 * **Davis Square**: Most of the center of Davis Square is zoned for Midrise 3. Something so close to the Red Line deserves Commercial Core or Midrise 6, with surrounding residential neighborhoods zoned for Urban Residence. This is especially important as an equity issue, because the eastern parts of the city have seen far more upzoning, and Davis Square shouldn’t be exempt from development.
-* **Areas surrounding Green Line Extension stops**: Many areas near new Green Line stops are currently zoned for Neighborhood Residence or Urban Residence. In the spirit of the [MBTA Communities Law](https://www.mass.gov/info-details/multi-family-zoning-requirement-for-mbta-communities), we should adjust the map to increase allowable density near transit.
-* **Small Business Overlay**: We should apply the small business overlay to more NR and UR areas along major streets to reduce the difficulty of opening a new business.
+* **Areas surrounding Green Line Extension stops**: Many areas near Green Line stops are currently zoned for Neighborhood Residence or Urban Residence. In the spirit of the [MBTA Communities Law](https://www.mass.gov/info-details/multi-family-zoning-requirement-for-mbta-communities), we should adjust the map to increase allowable density near transit.
+* **Small Business Overlay**: We should apply the small business overlay to more NR and UR areas, especially along major streets, to reduce the difficulty of opening a new business.
