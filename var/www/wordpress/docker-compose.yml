@@ -1,0 +1,122 @@
+networks:
+  traefik:
+    driver: bridge
+
+  wordpress:
+    driver: bridge
+
+services:
+  # traefik:
+  #   image: traefik:3.3.6
+  #   container_name: traefik
+  #   restart: unless-stopped
+  #   environment:
+  #     CF_API_KEY: $CLOUDFLARE_API_KEY
+  #   command:
+  #     # CLI arguments
+  #     - --global.checkNewVersion=true
+  #     - --global.sendAnonymousUsage=true
+  #     # # https://doc.traefik.io/traefik/v3.0/observability/tracing/opentelemetry/
+  #     # - --tracing.otlp=true
+  #     # - --tracing.otlp.grpc.endpoint=datadog-agent:4317
+  #     # - --metrics.datadog=true
+  #     # - --metrics.datadog.address=datadog-agent:8125
+  #     - --entryPoints.http.address=:80
+  #     # - --entryPoints.https.address=:443
+  #     - --api=true
+  #     - --api.insecure=true
+  #     - --providers.docker=true
+  #     # Logging and access log configuration
+  #     - --log=true
+  #     # (Default: error) DEBUG, INFO, WARN, ERROR, FATAL, PANIC
+  #     - --log.level=WARN
+  #     - --log.filePath=/var/log/traefik.log
+  #     - --log.format=json
+  #     - --accessLog=true
+  #     - --accessLog.filePath=/var/log/access.log
+  #     # Set a buffer of 100 lines
+  #     - --accessLog.bufferingSize=100
+  #     - --accessLog.filters.statusCodes=400-499
+  #     - --accessLog.format=json
+  #     - --providers.docker=true
+  #     # # HTTPS certificates resolver
+  #     # - --certificatesresolvers.httpchallenge.acme.httpchallenge=true
+  #     # - --certificatesresolvers.httpchallenge.acme.httpchallenge.entrypoint=web
+  #     # # LetsEncrypt Staging Server - uncomment when testing
+  #     # # - --certificatesResolvers.dns-cloudflare.acme.caServer=https://acme-staging-v02.api.letsencrypt.org/directory
+  #     # - --certificatesResolvers.dns-cloudflare.acme.email=steering@somervilleyimby.org
+  #     # - --certificatesResolvers.dns-cloudflare.acme.storage=/acme.json
+  #     # - --certificatesResolvers.dns-cloudflare.acme.dnsChallenge.provider=cloudflare
+  #     # - --certificatesResolvers.dns-cloudflare.acme.dnsChallenge.resolvers=1.1.1.1:53,1.0.0.1:53
+  #     # # To delay DNS check and reduce LE hitrate
+  #     # - --certificatesResolvers.dns-cloudflare.acme.dnsChallenge.delayBeforeCheck=90
+  #   ports:
+  #     - 8080:80
+  #     - 443:443
+  #     # - 8080:8080
+  #   volumes:
+  #     - /var/run/docker.sock:/var/run/docker.sock
+  #     - /var/log/traefik:/var/log
+  #   networks:
+  #     - traefik
+  #   labels:
+  #     traefik.enable: true
+  #     # # HTTP-to-HTTPS Redirect
+  #     # traefik.http.routers.http-catchall.entrypoints: http
+  #     # traefik.http.routers.http-catchall.rule: HostRegexp(`{host:.+}`)
+  #     # traefik.http.routers.http-catchall.middlewares: redirect-to-https
+  #     # traefik.http.middlewares.redirect-to-https.redirectscheme.scheme: https
+  #     # # HTTP Routers
+  #     # traefik.http.routers.traefik-rtr.entrypoints: https
+  #     # traefik.http.routers.traefik-rtr.rule: Host(`traefik.somervilleyimby.org`)
+  #     # # Services - API
+  #     # traefik.http.routers.traefik-rtr.service: api@internal
+  #     # Healthcheck/ping
+  #     traefik.http.routers.ping.rule: Host(`traefik.somervilleyimby.org`) && Path(`/health`)
+  #     traefik.http.routers.ping.tls: false
+  #     traefik.http.routers.ping.service: ping@internal
+  #     # # real shit
+  #     # traefik.http.routers.traefik.tls.certresolver: httpchallenge
+  #     # traefik.http.routers.traefik.entrypoints: https
+  #     # traefik.http.routers.traefik.middlewares: authtraefik
+
+  db:
+    image: mysql:9
+    container_name: db
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      MYSQL_DATABASE: $MYSQL_DATABASE
+      MYSQL_PASSWORD: $MYSQL_PASSWORD
+      MYSQL_ROOT_PASSWORD: $MYSQL_ROOT_PASSWORD
+      MYSQL_USER: $MYSQL_USER
+    volumes:
+      - db:/var/lib/mysql
+    networks:
+      - wordpress
+
+  wordpress:
+    depends_on:
+      - db
+    image: wordpress:6-php8.4-fpm
+    container_name: wordpress
+    restart: unless-stopped
+    env_file: .env
+    ports:
+      - 127.0.0.1:9000:9000
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_USER: $MYSQL_USER
+      WORDPRESS_DB_PASSWORD: $MYSQL_PASSWORD
+      WORDPRESS_DB_NAME: $MYSQL_DATABASE
+      WORDPRESS_CONFIG_EXTRA: |
+        define('WP_HOME', 'https://somervilleyimby.org');
+        define('WP_SITEURL', 'https://somervilleyimby.org');
+    volumes:
+      - /var/www/html:/var/www/html
+      - /var/www/wordpress/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
+    networks:
+      - wordpress
+
+volumes:
+  db:
