@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Somerville learns to love the triple-decker, again
-date: 2023-12-11 08:11:00 -0400
-categories: article
+title: ADU Memo to Somerville City Council
+date: 2022-04-25 08:11:00 -0400
+categories: letter
 ---
 
 The following is a letter we sent to the Somerville City Council, Planning Board, and Land Use Committee on <time datetime="2022-04-25">April 25, 2022</time>.
@@ -78,7 +78,7 @@ The following is a letter we sent to the Somerville City Council, Planning Board
 >
 > Berliner, U. (2021, September 4). _The housing shortage is significant. It's acute for small, entry-level homes_. NPR. Retrieved September 21, 2021, from [https://www.npr.org/2021/09/04/1033585422/the-housing-shortage-is-significant-its-acute-for-small-entry-level-homes](https://www.npr.org/2021/09/04/1033585422/the-housing-shortage-is-significant-its-acute-for-small-entry-level-homes).
 >
-> Los Angeles Department of Building and Safety. (2021). Standard Program Plan. Retrieved October 22, 2021, from https://www.ladbs.org/adu/standard-plan-program.
+> Los Angeles Department of Building and Safety. (2021). Standard Program Plan. Retrieved October 22, 2021, from <https://www.ladbs.org/adu/standard-plan-program>.
 >
 > City of Somerville. 2019. The Path Since 2010: A SomerVision Progress Report. Retrieved September 21, 2021 from [http://www.somervision2040.com/wp-content/uploads/sites/3/2019/01/The-Path-Since-2010-WEB-4.pdf](http://www.somervision2040.com/wp-content/uploads/sites/3/2019/01/The-Path-Since-2010-WEB-4.pdf).
 >
@@ -88,7 +88,7 @@ The following is a letter we sent to the Somerville City Council, Planning Board
 >
 > Dain, A. (2018, July). The State of Zoning for Accessory Dwelling Units. Pioneer Institute. Retrieved September 21, 2021 from [https://ma-smartgrowth.org/wp-content/uploads/2019/01/ADU-MSGA-Pioneer-paper-2018.pdf](https://ma-smartgrowth.org/wp-content/uploads/2019/01/ADU-MSGA-Pioneer-paper-2018.pdf).
 >
-> Dineen, J. K. (2021, October 12). San Francisco mayor breed wants to make it easier to turn gas stations into housing. San Francisco Chronicle. Retrieved October 22, 2021, from https://www.sfchronicle.com/sf/article/Mayor-Breed-wants-to-make-it-easier-to-turn-gas-16527917.php.
+> Dineen, J. K. (2021, October 12). San Francisco mayor breed wants to make it easier to turn gas stations into housing. San Francisco Chronicle. Retrieved October 22, 2021, from <https://www.sfchronicle.com/sf/article/Mayor-Breed-wants-to-make-it-easier-to-turn-gas-16527917.php>.
 >
 > Environmental Protection Agency. (n.d.). _Fast Facts on Transportation Greenhouse Gas Emissions_. EPA. Retrieved September 21, 2021, from [https://www.epa.gov/greenvehicles/fast-facts-transportation-greenhouse-gas-emissions](https://www.epa.gov/greenvehicles/fast-facts-transportation-greenhouse-gas-emissions).
 >
