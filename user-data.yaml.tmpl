@@ -1,0 +1,99 @@
+#cloud-config
+users:
+  - default
+  - name: jeffbyrnes
+    sudo:
+      - ALL=(ALL) NOPASSWD:ALL
+    groups: sudo
+    shell: /bin/bash
+    ssh_authorized_keys:
+      - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO5mP8t/YHN79Yx+D8OoeE5lYi1gicP6J7L37wVn9KZk thejeffbyrnes@gmail.com
+      - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFypNz7UGy8mFwtLNBW0sGSUZ45DPXutP8C2FI4r+Anh thejeffbyrnes@gmail.com
+
+groups:
+  - docker
+
+system_info:
+  default_user:
+    groups:
+      - docker
+
+locale: en_US.UTF-8
+
+apt:
+  sources:
+    docker.list:
+      source: deb [arch=amd64] https://download.docker.com/linux/ubuntu $RELEASE stable
+      keyid: 9DC858229FC7DD38854AE2D88D81803C0EBFCD88
+
+package_update: true
+
+package_upgrade: true
+
+packages:
+  - git
+  - apt-transport-https
+  - ca-certificates
+  - curl
+  - gnupg-agent
+  - software-properties-common
+  - docker-ce
+  - docker-ce-cli
+  - containerd.io
+  - docker-buildx-plugin
+  - docker-compose-plugin
+  - fzf
+  - fd-find
+
+swap:
+  filename: /swapfile
+  size: 2147483648
+
+write_files:
+  - path: /etc/sysctl.d/30-discourse-swap.conf
+    content: vm.swappiness = 10
+
+runcmd:
+  - sh -c echo 'Installing DO Agent...'
+  - curl -sSL https://repos.insights.digitalocean.com/install.sh | bash
+  - sh -c echo 'Disabling root login...'
+  - sed -i -e '/^PermitRootLogin/s/^.*$/PermitRootLogin no/' /etc/ssh/sshd_config
+  - sh -c echo 'Disabling password auth...'
+  - sed -i -e '/^PasswordAuthentication/s/^.*$/PasswordAuthentication no/' /etc/ssh/sshd_config
+  - sh -c echo 'Restarting sshd...'
+  - systemctl restart ssh
+  - sh -c echo 'Enabling swap...'
+  - sysctl -w vm.swappiness=10
+  - sh -c echo 'Installing go...'
+  - wget https://go.dev/dl/go1.24.4.linux-amd64.tar.gz
+  - tar -C /usr/local -xvf go1.24.4.linux-amd64.tar.gz
+  - ln -s /usr/local/go/bin/go /usr/local/bin/go
+  - ln -s /usr/local/go/bin/gofmt /usr/local/bin/gofmt
+  - sh -c echo 'Installing ccat...'
+  - go install github.com/owenthereal/ccat@latest
+  - sh -c echo 'Installing exa...'
+  - mkdir -p /etc/apt/keyrings
+  - wget -qO- https://raw.githubusercontent.com/eza-community/eza/main/deb.asc | gpg --dearmor -o /etc/apt/keyrings/gierens.gpg
+  - echo "deb [signed-by=/etc/apt/keyrings/gierens.gpg] http://deb.gierens.de stable main" | tee /etc/apt/sources.list.d/gierens.list
+  - chmod 644 /etc/apt/keyrings/gierens.gpg /etc/apt/sources.list.d/gierens.list
+  - apt update
+  - apt install -y eza
+  - sh -c echo 'Installing starship...'
+  - curl -sS https://starship.rs/install.sh | sh -s -- --force
+  - sh -c echo 'Setting up Discourse...'
+  - git clone https://github.com/discourse/discourse_docker.git /var/discourse
+  - mv /root/app.yml /var/discourse/containers/app.yml
+  - chmod o-rwx /var/discourse/containers/app.yml
+  - cd /var/discourse && ./launcher bootstrap app
+  - cd /var/discourse && ./launcher start app
+  - sh -c echo 'At this point, Discourse is ready to be restored!'
+  - sh -c echo 'See https://meta.discourse.org/t/restore-a-backup-from-command-line/108034 for details'
+  - sh -c echo 'Starting Datadog Agent...'
+  - >
+    DD_API_KEY=${dd_api_key} \
+    DD_SITE="datadoghq.com" \
+    DD_APM_INSTRUMENTATION_ENABLED=host \
+    DD_REMOTE_UPDATES=true \
+    DD_ENV=prod \
+    DD_APM_INSTRUMENTATION_LIBRARIES=java:1,python:3,js:5,php:1,dotnet:3 \
+    bash -c "$(curl -L https://install.datadoghq.com/scripts/install_script_agent7.sh)"
