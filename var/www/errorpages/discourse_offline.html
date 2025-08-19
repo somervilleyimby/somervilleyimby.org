@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="120">
+  <title>Discourse offline</title>
+  <style>
+    .center {
+      display: flex;
+      justify-content: center;
+    }
+
+    .container {
+      background: #DDD;
+      max-width: 500px;
+      padding: 50px 50px 30px 50px;
+      margin-top: 50px;
+    }
+
+    .title {
+      padding-top: 20px;
+    }
+
+    h1,
+    p {
+      font-family: sans-serif;
+    }
+
+    @keyframes spin {
+      from {
+        transform: rotate(0deg);
+      }
+
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+    .spinner {
+      animation: spin 5s infinite linear;
+      height: 30px;
+      width: 30px;
+      border: 4px solid #919191;
+      border-right-color: transparent;
+      border-radius: 50%;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="center">
+    <div class="container">
+      <div class="center">
+        <img src="somervilly-yimby-logo-wide-bg-transparent-708x200.png" alt="Somerville YIMBY logo" width="500px">
+      </div>
+      <h1 class="title">We’re sorry…</h1>
+      <div class="center">
+        <img src="sob.png" alt="sob" width="72" height="72">
+      </div>
+      <p>Somerville YIMBY’s Discourse forum isn’t available right now. We are currently upgrading the site, or performing scheduled maintenance.</p>
+      <p>Please check back later.</p>
+      <div class="center">
+        <div class="spinner"></div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
