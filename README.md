@@ -2,7 +2,7 @@
 
 Somerville YIMBY’s website is powered by these technologies:
 
-* Digital Ocean droplet
+* Digital Ocean droplet for hosting
 * Terraform for provisioning
 * NGINX for web server & reverse proxy
 * Certbot for automatically issuing HTTPS certificates
@@ -16,6 +16,10 @@ Somerville YIMBY’s website is powered by these technologies:
 One needs these Environment Variables set in order to run Terraform to create and configure a Digital Ocean droplet to serve the sites:
 
 ```bash
+AWS_ACCESS_KEY_ID="REDACTED"
+AWS_SECRET_ACCESS_KEY="REDACTED"
+AWS_REGION="us-east-1"
+DIGITALOCEAN_ACCESS_TOKEN="REDACTED"
 TF_VAR_cloudflare_account_id="REDACTED"
 TF_VAR_somervilleyimby_cloudflare_account_id="REDACTED"
 TF_VAR_mailgun_api_key="REDACTED"
