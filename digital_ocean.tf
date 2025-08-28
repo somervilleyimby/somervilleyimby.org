@@ -1,4 +1,4 @@
-resource "digitalocean_reserved_ip" "discourse" {
+resource "digitalocean_reserved_ip" "somervilleyimby_org" {
   droplet_id = digitalocean_droplet.somervilleyimby_org.id
   region     = digitalocean_droplet.somervilleyimby_org.region
 }

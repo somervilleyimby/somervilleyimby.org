@@ -31,6 +31,19 @@ resource "aws_s3_bucket_lifecycle_configuration" "somerville_yimby" {
   bucket = aws_s3_bucket.somerville_yimby.id
 
   rule {
+    id     = "purge_aborted_multipart_uploads"
+    status = "Enabled"
+
+    abort_incomplete_multipart_upload {
+      days_after_initiation = 7
+    }
+
+    filter {
+      prefix = ""
+    }
+  }
+
+  rule {
     id     = "purge_tombstone"
     status = "Enabled"
 
@@ -43,18 +56,6 @@ resource "aws_s3_bucket_lifecycle_configuration" "somerville_yimby" {
     }
   }
 
-  rule {
-    id     = "purge_aborted_multipart_uploads"
-    status = "Enabled"
-
-    abort_incomplete_multipart_upload {
-      days_after_initiation = 7
-    }
-
-    filter {
-      prefix = ""
-    }
-  }
 }
 
 resource "aws_s3_bucket_metric" "somerville_yimby" {

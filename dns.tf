@@ -13,32 +13,11 @@ resource "cloudflare_zone" "somervilleyimby_org" {
 
 # Actual .org records
 resource "cloudflare_dns_record" "somervilleyimby" {
-  for_each = toset([
-    "185.199.108.153",
-    "185.199.109.153",
-    "185.199.110.153",
-    "185.199.111.153",
-  ])
   zone_id = local.somervilleyimby_org_zone_id
   name    = "somervilleyimby.org"
   type    = "A"
-  content = each.key
-  proxied = false
-  ttl     = 1
-}
-
-resource "cloudflare_dns_record" "somervilleyimby_aaaa" {
-  for_each = toset([
-    "2606:50c0:8000::153",
-    "2606:50c0:8001::153",
-    "2606:50c0:8002::153",
-    "2606:50c0:8003::153",
-  ])
-  zone_id = local.somervilleyimby_org_zone_id
-  name    = "somervilleyimby.org"
-  type    = "AAAA"
-  content = each.key
-  proxied = false
+  content = digitalocean_reserved_ip.somervilleyimby_org.ip_address
+  proxied = true
   ttl     = 1
 }
 
@@ -47,7 +26,7 @@ resource "cloudflare_dns_record" "somervilleyimby_www" {
   name    = "www.${var.yimby_domain}"
   type    = "CNAME"
   content = var.yimby_domain
-  proxied = false
+  proxied = true
   ttl     = 1
 }
 
@@ -55,9 +34,7 @@ resource "cloudflare_dns_record" "somervilleyimby_discourse" {
   zone_id = local.somervilleyimby_org_zone_id
   name    = local.somervilleyimby_discourse_domain
   type    = "A"
-  # TODO: Switch this in after new droplet is up
-  # content   = digitalocean_floating_ip.somervilleyimby_org.ip_address
-  content = "167.99.21.174"
+  content = digitalocean_reserved_ip.somervilleyimby_org.ip_address
   proxied = true
   ttl     = 1
 }
@@ -104,7 +81,7 @@ resource "cloudflare_dns_record" "somervilleyimby_discourse_mail_receiving" {
   for_each = {
     for record in mailgun_domain.somervilleyimby_discourse.receiving_records_set : record.id => {
       type     = record.record_type
-      value  = record.value
+      value    = record.value
       priority = record.priority
     }
   }
@@ -121,8 +98,8 @@ resource "cloudflare_dns_record" "somervilleyimby_discourse_mail_receiving" {
 resource "cloudflare_dns_record" "somervilleyimby_discourse_mail_sending" {
   for_each = {
     for record in mailgun_domain.somervilleyimby_discourse.sending_records_set : record.id => {
-      name    = record.name
-      type    = record.record_type
+      name  = record.name
+      type  = record.record_type
       value = record.value
     }
   }
