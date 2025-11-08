@@ -44,6 +44,8 @@ services:
         define('WP_SITEURL', 'https://somervilleyimby.org');
         define('WP_REDIS_HOST', 'cache');
         define('WP_REDIS_PORT', '6379');
+        define('W3TC_CONFIG_CACHE_ENGINE', 'redis');
+        define('W3TC_CONFIG_CACHE_REDIS_SERVERS', 'cache::6379');
     volumes:
       - /var/www/html:/var/www/html
       - /var/www/wordpress/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
