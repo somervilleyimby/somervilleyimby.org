@@ -18,6 +18,13 @@ services:
     networks:
       - wordpress
 
+  cache:
+    image: redis:8
+    container_name: cache
+    restart: unless-stopped
+    networks:
+      - wordpress
+
   wordpress:
     depends_on:
       - db
@@ -35,6 +42,8 @@ services:
       WORDPRESS_CONFIG_EXTRA: |
         define('WP_HOME', 'https://somervilleyimby.org');
         define('WP_SITEURL', 'https://somervilleyimby.org');
+        define('WP_REDIS_HOST', 'cache');
+        define('WP_REDIS_PORT', '6379');
     volumes:
       - /var/www/html:/var/www/html
       - /var/www/wordpress/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
