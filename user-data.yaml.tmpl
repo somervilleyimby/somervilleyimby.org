@@ -53,6 +53,8 @@ write_files:
   - path: /etc/sysctl.d/30-discourse-swap.conf
     content: vm.swappiness = 10
 
+  - scp ./etc/nginx/sites-available/* somervilleyimby:/etc/nginx/sites-available/
+
 runcmd:
   - sh -c echo 'Installing DO Agent...'
   - curl -sSL https://repos.insights.digitalocean.com/install.sh | bash
@@ -64,13 +66,16 @@ runcmd:
   - systemctl restart ssh
   - sh -c echo 'Enabling swap...'
   - sysctl -w vm.swappiness=10
+
   - sh -c echo 'Installing go...'
   - wget https://go.dev/dl/go1.24.4.linux-amd64.tar.gz
   - tar -C /usr/local -xvf go1.24.4.linux-amd64.tar.gz
   - ln -s /usr/local/go/bin/go /usr/local/bin/go
   - ln -s /usr/local/go/bin/gofmt /usr/local/bin/gofmt
+
   - sh -c echo 'Installing ccat...'
   - go install github.com/owenthereal/ccat@latest
+
   - sh -c echo 'Installing exa...'
   - mkdir -p /etc/apt/keyrings
   - wget -qO- https://raw.githubusercontent.com/eza-community/eza/main/deb.asc | gpg --dearmor -o /etc/apt/keyrings/gierens.gpg
@@ -78,8 +83,26 @@ runcmd:
   - chmod 644 /etc/apt/keyrings/gierens.gpg /etc/apt/sources.list.d/gierens.list
   - apt update
   - apt install -y eza
+
   - sh -c echo 'Installing starship...'
   - curl -sS https://starship.rs/install.sh | sh -s -- --force
+
+  - sh -c echo 'Installing NGINX...'
+  - apt install curl gnupg2 ca-certificates lsb-release ubuntu-keyring
+  - curl https://nginx.org/keys/nginx_signing.key | gpg --dearmor | tee /usr/share/keyrings/nginx-archive-keyring.gpg >/dev/null
+  - echo "deb [signed-by=/usr/share/keyrings/nginx-archive-keyring.gpg] <http://nginx.org/packages/ubuntu> `lsb_release -cs` nginx" | tee /etc/apt/sources.list.d/nginx.list
+  - echo -e "Package: *\nPin: origin nginx.org\nPin: release o=nginx\nPin-Priority: 900\n" | tee /etc/apt/preferences.d/99nginx
+  - apt update && apt install nginx
+
+  - sh -c echo 'Installing Certbot...'
+  - snap install --classic certbot
+
+  - sh -c echo 'Configuring NGINX...'
+  - rm /etc/nginx/sites-enabled/default
+  - ln -s /etc/nginx/sites-available/00-discourse /etc/nginx/sites-enabled/00-discourse
+  - ln -s /etc/nginx/sites-available/01-wordpress /etc/nginx/sites-enabled/01-wordpress
+  - systemctl reload nginx
+
   - sh -c echo 'Setting up Discourse...'
   - git clone https://github.com/discourse/discourse_docker.git /var/discourse
   - mv /root/app.yml /var/discourse/containers/app.yml
@@ -88,6 +111,7 @@ runcmd:
   - cd /var/discourse && ./launcher start app
   - sh -c echo 'At this point, Discourse is ready to be restored!'
   - sh -c echo 'See https://meta.discourse.org/t/restore-a-backup-from-command-line/108034 for details'
+
   - sh -c echo 'Starting Datadog Agent...'
   - >
     DD_API_KEY=${dd_api_key} \
