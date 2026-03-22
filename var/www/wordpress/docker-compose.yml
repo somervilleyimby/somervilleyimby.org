@@ -29,6 +29,9 @@ services:
     depends_on:
       - db
       - cache
+    build:
+      context: .
+      dockerfile: Dockerfile
     container_name: wordpress
     restart: unless-stopped
     env_file: .env
