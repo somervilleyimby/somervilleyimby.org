@@ -4,7 +4,10 @@ instances:
   - ## @param openmetrics_endpoint - string - optional
     ## The URL exposing metrics in the OpenMetrics format.
     #
-    openmetrics_endpoint: http://discourse.somervilleyimby.org/metrics
+    ## Scraped over loopback via the internal listener in
+    ## etc/nginx/sites-available/status — the public vhost no longer
+    ## exposes /metrics.
+    openmetrics_endpoint: http://127.0.0.1:81/metrics
 
     ## @param namespace - string - optional
     ## The namespace to be prepended to all metrics.

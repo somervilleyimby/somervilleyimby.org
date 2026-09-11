@@ -1,0 +1,41 @@
+# Internal-only endpoints, scraped by the Datadog Agent over loopback.
+# README: https://docs.datadoghq.com/integrations/nginx/?tab=host
+server {
+  # NB: changing the listen address/port here needs `systemctl restart nginx`,
+  # not `reload` — reload can’t rebind a port the old master still holds and
+  # silently keeps the previous config (see /var/log/nginx/error.log [emerg]).
+  listen 127.0.0.1:81;
+  server_name localhost;
+
+  access_log off;
+  allow 127.0.0.1;
+  deny all;
+
+  location /nginx_status {
+    # freely available with open source NGINX
+    stub_status;
+
+    # ensures the version information can be retrieved
+    server_tokens on;
+  }
+
+  # Discourse’s Prometheus metrics (discourse-prometheus plugin).
+  #
+  # This deliberately lives on loopback rather than on the public vhost: the
+  # plugin’s /metrics middleware authorizes callers by `Rack::Request#ip`, and
+  # because app.yml includes templates/cloudflare.template.yml, the container’s
+  # NGINX derives that IP from `CF-Connecting-IP` (`real_ip_header
+  # cf-connecting-ip`) — X-Forwarded-For and X-Real-IP are ignored. Exposing
+  # /metrics publicly therefore lets anyone hitting the origin IP directly
+  # forge that header and read the whole metrics dump.
+  location /metrics {
+    proxy_pass http://unix:/var/discourse/shared/standalone/nginx.http.sock:;
+    proxy_http_version 1.1;
+    proxy_set_header Host discourse.somervilleyimby.org;
+    proxy_set_header X-Forwarded-Proto https;
+
+    # Overwrite (never pass through) the header the container trusts, so
+    # Discourse sees 127.0.0.1 and allows the scrape as a private-IP client.
+    proxy_set_header CF-Connecting-IP $remote_addr;
+  }
+}
