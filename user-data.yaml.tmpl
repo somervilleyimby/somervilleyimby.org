@@ -53,7 +53,22 @@ write_files:
   - path: /etc/sysctl.d/30-discourse-swap.conf
     content: vm.swappiness = 10
 
-  - scp ./etc/nginx/sites-available/* somervilleyimby:/etc/nginx/sites-available/
+  # Discourse launcher config; runcmd moves it into /var/discourse/containers
+  # once the launcher repo has been cloned. Holds SMTP + API secrets.
+  - path: /root/app.yml
+    permissions: "0600"
+    content: |
+      ${indent(6, app_yml)}
+
+  # Datadog openmetrics check for Discourse. Written before the Agent is
+  # installed (runcmd below); the package leaves pre-existing conf.d files alone.
+  - path: /etc/datadog-agent/conf.d/openmetrics.d/conf.yaml
+    permissions: "0644"
+    content: |
+      ${indent(6, openmetrics_conf)}
+
+  # NGINX vhosts are not delivered by cloud-init; copy them in by hand after boot:
+  #   scp ./etc/nginx/sites-available/* somervilleyimby:/etc/nginx/sites-available/
 
 runcmd:
   - sh -c echo 'Installing DO Agent...'
