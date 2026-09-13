@@ -12,25 +12,20 @@ data "cloudinit_config" "somervilleyimby" {
   gzip          = false
   base64_encode = false
 
-  part {
-    content = templatefile("${path.module}/app.yml.tmpl", {
-      domain              = mailgun_domain.somervilleyimby_discourse.name,
-      maxmind_license_key = var.maxminddb_license_key,
-      smtp_user_name      = mailgun_domain.somervilleyimby_discourse.smtp_login,
-      smtp_password       = var.mailgun_somervilleyimby_smtp_password,
-    })
-    filename = "/root/app.yml"
-  }
-
-  part {
-    content  = "${path.module}/datadog-agent/conf.d/openmetrics.d/conf.yaml"
-    filename = "/etc/datadog-agent/conf.d/openmetrics.d/conf.yaml"
-  }
-
+  # Everything is delivered through the one cloud-config part's `write_files`.
+  # cloud-init ignores plain-text attachment parts (it logs "Unhandled unknown
+  # content-type (text/plain)"), so files can't be shipped as their own parts.
   part {
     content_type = "text/cloud-config"
     content = templatefile("${path.module}/user-data.yaml.tmpl", {
       dd_api_key = var.dd_api_key
+      app_yml = templatefile("${path.module}/app.yml.tmpl", {
+        domain              = mailgun_domain.somervilleyimby_discourse.name,
+        maxmind_license_key = var.maxminddb_license_key,
+        smtp_user_name      = mailgun_domain.somervilleyimby_discourse.smtp_login,
+        smtp_password       = var.mailgun_somervilleyimby_smtp_password,
+      })
+      openmetrics_conf = file("${path.module}/etc/datadog-agent/conf.d/openmetrics.d/conf.yaml")
     })
   }
 }
