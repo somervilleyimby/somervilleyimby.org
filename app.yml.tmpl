@@ -83,8 +83,10 @@ env:
   ## see https://meta.discourse.org/t/-/137387/23 for details
   DISCOURSE_MAXMIND_LICENSE_KEY: ${maxmind_license_key}
 
-  # RegEx string of IPs allowed to access Prometheus metrics
-  DISCOURSE_PROMETHEUS_TRUSTED_IP_ALLOWLIST_REGEX: (172\.(17|18)|(10\.(17|108)))\.0(\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?))
+  ## No DISCOURSE_PROMETHEUS_TRUSTED_IP_ALLOWLIST_REGEX on purpose: the Datadog
+  ## Agent scrapes /metrics through the loopback-only vhost in
+  ## etc/nginx/sites-available/status, which presents 127.0.0.1 to Discourse,
+  ## and discourse-prometheus allows private/loopback clients unconditionally.
 
 ## The Docker container is stateless; all data is stored in /shared
 volumes:
