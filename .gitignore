@@ -1,3 +1,6 @@
 .env
 /.terraform
 /.terraform.lock.hcl
+
+# WordPress plugins live on the server (auto-updated there); not vendored here.
+/var/www/html/wp-content/plugins/amazon-s3-and-cloudfront-pro/
