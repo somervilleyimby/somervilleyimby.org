@@ -45,10 +45,11 @@ services:
       WORDPRESS_CONFIG_EXTRA: |
         define('WP_HOME', 'https://somervilleyimby.org');
         define('WP_SITEURL', 'https://somervilleyimby.org');
-        define('WP_REDIS_HOST', 'cache');
-        define('WP_REDIS_PORT', '6379');
+        // W3TC caches its own parsed config (wp-content/w3tc-config/master.php)
+        // in Redis. The object/page cache engines and their servers are set in
+        // master.php itself, not here.
         define('W3TC_CONFIG_CACHE_ENGINE', 'redis');
-        define('W3TC_CONFIG_CACHE_REDIS_SERVERS', 'cache::6379');
+        define('W3TC_CONFIG_CACHE_REDIS_SERVERS', 'cache:6379');
     volumes:
       - /var/www/html:/var/www/html
       - /var/www/wordpress/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
